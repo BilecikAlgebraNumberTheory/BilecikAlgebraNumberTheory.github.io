@@ -13,25 +13,28 @@ BNT Team
 
 In these seminars, we examine Algebra and Analysis topics, and our goals are to increase our mathematical maturity and say hello to new bridges in mathematics. We will use book D. S Malik, John M. Mordeson and M. K. Sen, *Fundamentals of Abstract Algebra.* in these seminars
 
-| 12/10/2023 | İlker İnam         | Set, Relations, and Integers                |
-| 19/10/2023 | Mine Ateş          | Introduction to Groups                      |
-| 26/10/2023 | Murat Özyurt       | Permutation Groups                           |
-| 02/11/2023 | Zeynep Demirkol Özkaya | Subgroups and Normal Subgroups           |
-| 09/11/2023 | Zeynep Demirkol Özkaya | Subgroups and Normal Subgroups           |
-| 16/11/2023 | BNT Team        | Where is algebra going?                 |
-| 23/11/2023 | Zeynep Demirkol Özkaya | Subgroups and Normal Subgroups           |
-| 30/11/2023 | Elif Ilgaz Çağlayan | Homomorphisms and Isomorphisms of Groups   |
-| 07/12/2023 | Elif Ilgaz Çağlayan | Homomorphisms and Isomorphisms of Groups   |
-| 14/12/2023 | İlker İnam         | Direct Product of Groups                    |
-| 21/12/2023 | Zeynep Demirkol Özkaya | Sylow Theorems                           |
-| 28/12/2023 | Murat Özyurt       | Solvable and Nilpotent Groups                |
-| 04/01/2024 | Pınar Cihan        | Finitely Generated Abelian Groups            |
-| 11/01/2024 | Mine Ateş          | Introduction to Rings                        |
-| 18/01/2024 | Pınar Cihan        | Subrings, Ideals, and Homomorphisms          |
-| 25/01/2024 | Elif Ilgaz Çağlayan | Ring Embedding                               |
-| 01/02/2024 | İlker İnam         | Direct Sum of Rings                          |
-| 08/02/2024 | Zeynep Demirkol Özkaya | Polynomial Rings                      |
-| 15/02/2024 | An adjective will be found for Murat                    |
+| Date       | Speaker                    | Title                                     |
+|------------|----------------------------|--------------------------------------------|
+| 12/10/2023 | İlker İnam                 | Set, Relations, and Integers                |
+| 19/10/2023 | Mine Ateş                  | Introduction to Groups                      |
+| 26/10/2023 | Murat Özyurt               | Permutation Groups                           |
+| 02/11/2023 | Zeynep Demirkol Özkaya     | Subgroups and Normal Subgroups               |
+| 09/11/2023 | Zeynep Demirkol Özkaya     | Subgroups and Normal Subgroups               |
+| 16/11/2023 | BNT Team                   | Where is algebra going?                      |
+| 23/11/2023 | Zeynep Demirkol Özkaya     | Subgroups and Normal Subgroups               |
+| 30/11/2023 | Elif Ilgaz Çağlayan        | Homomorphisms and Isomorphisms of Groups    |
+| 07/12/2023 | Elif Ilgaz Çağlayan        | Homomorphisms and Isomorphisms of Groups    |
+| 14/12/2023 | İlker İnam                 | Direct Product of Groups                     |
+| 21/12/2023 | Zeynep Demirkol Özkaya     | Sylow Theorems                              |
+| 28/12/2023 | Murat Özyurt               | Solvable and Nilpotent Groups                |
+| 04/01/2024 | Pınar Cihan                | Finitely Generated Abelian Groups            |
+| 11/01/2024 | Mine Ateş                  | Introduction to Rings                        |
+| 18/01/2024 | Pınar Cihan                | Subrings, Ideals, and Homomorphisms          |
+| 25/01/2024 | Elif Ilgaz Çağlayan        | Ring Embedding                               |
+| 01/02/2024 | İlker İnam                 | Direct Sum of Rings                          |
+| 08/02/2024 | Zeynep Demirkol Özkaya     | Polynomial Rings                             |
+| 15/02/2024 | Murat                      | An adjective will be found for Murat        |
+
 
 
 
