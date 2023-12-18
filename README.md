@@ -33,7 +33,7 @@ In these seminars, we examine Algebra and Analysis topics, and our goals are to 
 | 25/01/2024 | Elif Ilgaz Çağlayan        | Ring Embedding                               |
 | 01/02/2024 | İlker İnam                 | Direct Sum of Rings                          |
 | 08/02/2024 | Zeynep Demirkol Özkaya     | Polynomial Rings                             |
-| 15/02/2024 | Murat                      | An adjective will be found for Murat        |
+
 
 
 
