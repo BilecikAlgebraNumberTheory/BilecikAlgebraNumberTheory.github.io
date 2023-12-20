@@ -1,6 +1,6 @@
 # BilecikAlgebraNumberTheory.github.io
 
-theme: jekyll-theme-architect.
+theme: jekyll-theme-architect
 
 Welcome! It's great to have you here. This page provides information about the seminars regularly organized by Bilecik Algebra & Number Theory Team (BNT). These seminars cover various important disciplines of mathematics, especially Number Theory.
 
