@@ -58,16 +58,18 @@ Carl Friedrich Gauss's statement "Mathematics is the queen of sciences, the quee
 
 ## *Group Members*
 
-| Name &  Surname      | 
-| -----------|
-| Mine Ateş   |
-| Zekiye Pınar Cihan|
-| Elif Ilgaz Çağlayan  |
-| Şevval Dündar     |
-| İlker İnam      |
-|Zeynep Demirkol Özkaya       |
-| Murat Özyurt        |
-|Bahar Kuloğlu      |
+
+| Name & Surname           |
+| ------------------------ |
+| Mine Ateş                |
+| Zekiye Pınar Cihan       |
+| Elif Ilgaz Çağlayan      |
+| Şevval Dündar            |
+| İlker İnam               |
+| Bahar Kuloğlu            |
+| Zeynep Demirkol Özkaya   |
+| Murat Özyurt             |
+
 
 
 
