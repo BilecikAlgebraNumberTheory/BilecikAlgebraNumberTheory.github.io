@@ -1,6 +1,5 @@
 # BilecikAlgebraNumberTheory.github.io
 
-theme: jekyll-theme-minimal
 
 Welcome! It's great to have you here. This page provides information about the seminars regularly organized by Bilecik Algebra & Number Theory Team (BNT). These seminars cover various important disciplines of mathematics, especially Number Theory.
 
@@ -57,3 +56,4 @@ Carl Friedrich Gauss's statement "Mathematics is the queen of sciences, the quee
 | 12/14/2023 | TBA     | TBA   | TBA         |
 
 
+remote_theme: pages-themes/architect
