@@ -1,16 +1,16 @@
 # BilecikAlgebraNumberTheory.github.io
 
 
-Welcome! It's great to have you here. This page provides information about the seminars regularly organized by Bilecik Algebra & Number Theory Team (BNT). These seminars cover various important disciplines of mathematics, especially Number Theory.
+Welcome! It's great to have you here. This page provides information about the seminars regularly organized by Bilecik Algebra & Number Theory Team (BANT). These seminars cover various important disciplines of mathematics, especially Number Theory.
 
 Everyone is invited to attend! This academic year, all seminars will be held via Zoom. Zoom links will be shared one day before each seminar. To register, please feel free to contact us at [ilker.inam at gmail.com].
 
 We look forward to the opportunity to meet face to face and turn coffee meetings into theorems as soon as possible.
 
 Kind regards,
-BNT Team
+BANT Team
 
-## *BNT/Working Group Seminar*
+## *BANT/Working Group Seminar*
 
 In these seminars, we examine Algebra and number theory topics, and our goals are to increase our mathematical maturity and say hello to new bridges in mathematics. We will use book D. S Malik, John M. Mordeson and M. K. Sen, *Fundamentals of Abstract Algebra.* in these seminars
 
@@ -21,7 +21,7 @@ In these seminars, we examine Algebra and number theory topics, and our goals ar
 | 26/10/2023 | Murat Özyurt               | Permutation Groups                           |
 | 02/11/2023 | Zeynep Demirkol Özkaya     | Subgroups and Normal Subgroups               |
 | 09/11/2023 | Zeynep Demirkol Özkaya     | Subgroups and Normal Subgroups               |
-| 16/11/2023 | BNT Team                   | Time Out                    |
+| 16/11/2023 | BANT Team                  | Time Out                    |
 | 23/11/2023 | Zeynep Demirkol Özkaya     | Subgroups and Normal Subgroups               |
 | 30/11/2023 | Elif Ilgaz Çağlayan        | Homomorphisms and Isomorphisms of Groups    |
 | 07/12/2023 | Elif Ilgaz Çağlayan        | Homomorphisms and Isomorphisms of Groups    |
@@ -54,5 +54,32 @@ Carl Friedrich Gauss's statement "Mathematics is the queen of sciences, the quee
 | 11/30/2023 | TBA     | TBA   | TBA         |
 | 12/07/2023 | TBA     | TBA   | TBA         |
 | 12/14/2023 | TBA     | TBA   | TBA         |
+
+
+## *Group Members*
+
+
+| -----------|
+| Mine Ateş   |
+| Zekiye Pınar Cihan|
+| Elif Ilgaz Çağlayan  |
+| Şevval Dündar     |
+|Zeynep Demirkol Özkaya       |
+|      |
+|      |
+|Bahar Kuloğlu      |
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
