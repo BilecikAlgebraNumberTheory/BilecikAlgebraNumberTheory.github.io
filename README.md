@@ -56,4 +56,3 @@ Carl Friedrich Gauss's statement "Mathematics is the queen of sciences, the quee
 | 12/14/2023 | TBA     | TBA   | TBA         |
 
 
-remote_theme: pages-themes/architect
