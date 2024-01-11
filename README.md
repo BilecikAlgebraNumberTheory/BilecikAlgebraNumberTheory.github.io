@@ -32,8 +32,8 @@ In these seminars, we examine Algebra and number theory topics, and our goals ar
 | 11/01/2024 | Mine Ateş                  | Introduction to Rings                        |
 | 18/01/2024 | Mine Ateş                  | Some Important Rings                        |
 | 18/01/2024 | Pınar Cihan                | Subrings, Ideals, and Homomorphisms          |
-| 25/01/2024 | Bant Team                  | Winter Break                     |
-| 01/02/2024 | Bant Team                  | Winter Break                        |
+| 25/01/2024 | BANT Team                  | Winter Break                     |
+| 01/02/2024 | BANT Team                  | Winter Break                        |
 | 08/02/2024 | Elif Ilgaz Çağlayan        | Ring Embedding                               |
 | 15/02/2024 | İlker İnam                 | Direct Sum of Rings                          |
 | 22/02/2024 | Zeynep Demirkol Özkaya     | Polynomial Rings                             |
@@ -49,14 +49,14 @@ Carl Friedrich Gauss's statement "Mathematics is the queen of sciences, the quee
 
 | Date       | Speaker | Title | Affiliation |
 | -----------| ------- | ----- | ----------- |
-| 10/26/2023 | TBA     | TBA   | TBA         |
-| 11/02/2023 | TBA     | TBA   | TBA         |
-| 11/09/2023 | TBA     | TBA   | TBA         |
-| 11/16/2023 | TBA     | TBA   | TBA         |
-| 11/23/2023 | TBA     | TBA   | TBA         |
-| 11/30/2023 | TBA     | TBA   | TBA         |
-| 12/07/2023 | TBA     | TBA   | TBA         |
-| 12/14/2023 | TBA     | TBA   | TBA         |
+| TBA  | TBA     | TBA   | TBA         |
+| TBA | TBA     | TBA   | TBA         |
+| TBA  | TBA     | TBA   | TBA         |
+| TBA | TBA     | TBA   | TBA         |
+| TBA  | TBA     | TBA   | TBA         |
+| TBA  | TBA     | TBA   | TBA         |
+| TBA  | TBA     | TBA   | TBA         |
+| TBA  | TBA     | TBA   | TBA         |
 
 
 ## *Group Members*
