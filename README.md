@@ -33,10 +33,10 @@ In these seminars, we examine Algebra and number theory topics, and our goals ar
 | 18/01/2024 | Mine Ateş                  | Some Important Rings                        |
 | 25/01/2024 | BANT Team                  | Winter Break                                |
 | 01/02/2024 | BANT Team                  | Winter Break                                 |
-| 08/02/2024 | Pınar Cihan                | Subrings, Ideals, and Homomorphisms          |
-| 15/02/2024 | Elif Ilgaz Çağlayan        | Ring Embedding                               |
-| 22/02/2024 | İlker İnam                 | Direct Sum of Rings                          |
-| 29/02/2024 | Zeynep Demirkol Özkaya     | Polynomial Rings                             |
+| 21/02/2024 | Pınar Cihan                | Subrings, Ideals, and Homomorphisms          |
+| 28/02/2024 | Elif Ilgaz Çağlayan        | Ring Embedding                               |
+| 06/03/2024 | İlker İnam                 | Direct Sum of Rings                          |
+| 13/03/2024 | Zeynep Demirkol Özkaya     | Polynomial Rings                             |
 
 
 
@@ -44,19 +44,18 @@ In these seminars, we examine Algebra and number theory topics, and our goals ar
 
 ## *General Seminar*
 
-Carl Friedrich Gauss's statement "Mathematics is the queen of sciences, the queen of Mathematics is Number Theory," we are subscribing and examining the number theory, Analytical, Algebraic, Combinatorics.
+Carl Friedrich Gauss's statement "Mathematics is the queen of sciences, the queen of Mathematics is Number Theory," 
 
 
 | Date       | Speaker | Title | Affiliation |
 | -----------| ------- | ----- | ----------- |
-| TBA  | TBA     | TBA   | TBA         |
-| TBA | TBA     | TBA   | TBA         |
-| TBA  | TBA     | TBA   | TBA         |
-| TBA | TBA     | TBA   | TBA         |
-| TBA  | TBA     | TBA   | TBA         |
-| TBA  | TBA     | TBA   | TBA         |
-| TBA  | TBA     | TBA   | TBA         |
-| TBA  | TBA     | TBA   | TBA         |
+| 19/03/2024 | TBA     | TBA   | TBA         |
+| 02/04/2024 | TBA     | TBA   | TBA         |
+| 16/04/2024  | TBA     | TBA   | TBA         |
+| 30/04/2024 | TBA     | TBA   | TBA         |
+| 14/05/2024  | TBA     | TBA   | TBA         |
+| 28/05/2024  | TBA     | TBA   | TBA         |
+
 
 
 ## *Group Members*
