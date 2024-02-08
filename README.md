@@ -52,7 +52,7 @@ Carl Friedrich Gauss's statement "Mathematics is the queen of sciences, the quee
 | 19/03/2024 | TBA     | TBA   | TBA         |
 | 02/04/2024 | TBA     | TBA   | TBA         |
 | 16/04/2024  | TBA     | TBA   | TBA         |
-| 30/04/2024 | TBA     | TBA   | TBA         |
+| 30/04/2024 | Ken ONO    | TBA   | University of Virginia         |
 | 14/05/2024  | TBA     | TBA   | TBA         |
 | 28/05/2024  | TBA     | TBA   | TBA         |
 
