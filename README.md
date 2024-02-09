@@ -51,7 +51,7 @@ Carl Friedrich Gauss's statement "Mathematics is the queen of sciences, the quee
 | -----------| ------- | ----- | ----------- |
 | 19/03/2024 | TBA     | TBA   | TBA         |
 | 02/04/2024 | TBA     | TBA   | TBA         |
-| 16/04/2024  | Gabor Wiese     | TBA   | University of Luxembourg        |
+| 16/04/2024  | Gabor Wiese     | Splitting fields of X^n-X-1 and modular forms   | University of Luxembourg        |
 | 30/04/2024 | Ken Ono    | TBA   | University of Virginia         |
 | 14/05/2024  | TBA     | TBA   | TBA         |
 | 28/05/2024  | TBA     | TBA   | TBA         |
