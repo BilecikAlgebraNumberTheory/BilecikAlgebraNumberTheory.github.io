@@ -10,7 +10,7 @@ We look forward to the opportunity to meet face to face and turn coffee meetings
 Kind regards,
 BANT Team
 
-## *BANT/Working Group Seminar*
+## *BANT Working Group Seminar*
 
 In these seminars, we examine Algebra and number theory topics, and our goals are to increase our mathematical maturity and say hello to new bridges in mathematics. We will use book D. S Malik, John M. Mordeson and M. K. Sen, *Fundamentals of Abstract Algebra.* in these seminars
 
