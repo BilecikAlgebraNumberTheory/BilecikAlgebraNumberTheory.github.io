@@ -47,14 +47,14 @@ In these seminars, we examine Algebra and number theory topics, and our goals ar
 Carl Friedrich Gauss's statement "Mathematics is the queen of sciences, the queen of Mathematics is Number Theory". 
 
 
-| Date       | Speaker | Title | Affiliation |
+| Date       | Speaker | Affiliation  | Title |
 | -----------| ------- | ----- | ----------- |
 | 19/03/2024 | TBA     | TBA   | TBA         |
-| 02/04/2024 | Kağan Kurşungöz     | TBA   | Sabancı University         |
-| 16/04/2024  | Gabor Wiese     | Splitting fields of X^n-X-1 and modular forms   | University of Luxembourg        |
-| 30/04/2024 | Ken Ono    | TBA   | University of Virginia         |
-| 14/05/2024  | Kenneth Ribet    | TBA   | University of California,Berkeley         |
-| 28/05/2024  | Kathrin Bringmann    | TBA   | Universty of Cologne       |
+| 02/04/2024 | Kağan Kurşungöz     | Sabancı University   |  TBA         |
+| 16/04/2024  | Gabor Wiese     |  University of Luxembourg |  Splitting fields of X^n-X-1 and modular forms        |
+| 30/04/2024 | Ken Ono    | University of Virginia     |   TBA     |
+| 14/05/2024  | Kenneth Ribet    | University of California,Berkeley    |  TBA       |
+| 28/05/2024  | Kathrin Bringmann    | Universty of Cologne    |      TBA  |
 
 
 
