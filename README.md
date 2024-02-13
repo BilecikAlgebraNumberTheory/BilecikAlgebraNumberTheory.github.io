@@ -37,7 +37,17 @@ In these seminars, we examine Algebra and number theory topics, and our goals ar
 | 28/02/2024 | Elif Ilgaz Çağlayan        | Ring Embedding                               |
 | 06/03/2024 | İlker İnam                 | Direct Sum of Rings                          |
 | 13/03/2024 | Zeynep Demirkol Özkaya     | Polynomial Rings                             |
-
+| 20/03/2024    |Zeynep Demirkol Özkaya     | Euclidean Domains    |
+| 27/03/2024   | İlker İnam       | Unique Factorization Domains    |
+|03/04/2024     | İlker İnam       | Unique Factorization Domains    |
+|10/04/2024     |BANT Team       |   Holiday   |
+|17/04/2024     |Zeynep Demirkol Özkaya     |Maximal, Prime and Maximal Ideals     |
+|24/04/2024     | Mine Ateş      | Noetherian and Artinian Rings.   |
+|01/05/2024     |BANT Team       |  Holiday    |
+|08/05/2024     |Elif Ilgaz Çağlayan      | Modules and Vector Spaces     |
+|15/05/2024     |Murat Özyurt      |Rings of Matrices     |
+|22/05/2024      |Zeynep Demirkol Özkaya     | Field Extension     |
+|29/05/2024      | Elif Ilgaz Çağlayan     | Multiplicity of a Roots    |
 
 
 
