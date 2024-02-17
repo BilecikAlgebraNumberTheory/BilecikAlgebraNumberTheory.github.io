@@ -59,7 +59,7 @@ Carl Friedrich Gauss's statement "Mathematics is the queen of sciences, the quee
 
 | Date       | Speaker | Affiliation  | Title |
 | -----------| ------- | ----- | ----------- |
-| 19/03/2024 | TBA     | TBA   | TBA         |
+| 19/03/2024 | Kaisa Matomäki     | University of Turku   | TBA         |
 | 02/04/2024 | Kağan Kurşungöz     | Sabancı University   |  TBA         |
 | 16/04/2024  | Gabor Wiese     |  University of Luxembourg |  Splitting fields of X^n-X-1 and modular forms        |
 | 30/04/2024 | Ken Ono    | University of Virginia     |   TBA     |
