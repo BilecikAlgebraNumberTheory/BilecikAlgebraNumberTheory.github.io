@@ -58,14 +58,15 @@ In these seminars, we examine Algebra and number theory topics, and our goals ar
 Carl Friedrich Gauss's statement "Mathematics is the queen of sciences, the queen of Mathematics is Number Theory". 
 
 
-| Date       | Speaker | Affiliation  | Title |
-| -----------| ------- | ----- | ----------- |
-| 19/03/2024 | Kaisa Matomäki     | University of Turku   | TBA         |
-| 02/04/2024 | Kağan Kurşungöz     | Sabancı University   |  TBA         |
-| 16/04/2024  | Gabor Wiese     |  University of Luxembourg |  Splitting fields of X^n-X-1 and modular forms        |
-| 30/04/2024 | Ken Ono    | University of Virginia     |   TBA     |
-| 14/05/2024  | Kenneth Ribet    | University of California,Berkeley    |  TBA       |
-| 28/05/2024  | Kathrin Bringmann    | Universty of Cologne    |      TBA  |
+| Date       | Speaker              | Affiliation                | Title                                           | Abstract                                  |
+| -----------| -------------------- | -------------------------- | ----------------------------------------------- | ----------------------------------------- |
+| 19/03/2024 | Kaisa Matomäki       | University of Turku        | TBA                                             |                                              |
+| 02/04/2024 | Kağan Kurşungöz       | Sabancı University        | TBA                                             |                                              |
+| 16/04/2024 | Gabor Wiese           | University of Luxembourg   | Splitting fields of X^n-X-1 and modular forms  |                                              |
+| 30/04/2024 | Ken Ono               | University of Virginia     | TBA                                             |                                              |
+| 14/05/2024 | Kenneth Ribet         | University of California, Berkeley | TBA                                |                                              |
+| 28/05/2024 | Kathrin Bringmann     | University of Cologne       | TBA                                             |                                              |
+
 
 
 
