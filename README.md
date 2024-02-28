@@ -48,7 +48,7 @@ In these seminars, we examine Algebra and number theory topics, and our goals ar
 |15/05/2024     |Elif Ilgaz Çağlayan      | Modules and Vector Spaces     |
 |22/05/2024     |Murat Özyurt      |Rings of Matrices     |
 |29/05/2024      |Zeynep Demirkol Özkaya     | Field Extension     |
-|05/05/2024      | Elif Ilgaz Çağlayan     | Field Extension    |
+|05/06/2024      | Elif Ilgaz Çağlayan     | Field Extension    |
 
 
 
