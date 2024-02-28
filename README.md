@@ -60,12 +60,13 @@ Carl Friedrich Gauss's statement "Mathematics is the queen of sciences, the quee
 
 | Date       | Speaker              | Affiliation                | Title                                           | Abstract                                  |
 | -----------| -------------------- | -------------------------- | ----------------------------------------------- | ----------------------------------------- |
-| 19/03/2024 | Kaisa Matomäki       | University of Turku        | TBA                                             |                                              |
-| 02/04/2024 | Kağan Kurşungöz       | Sabancı University        | TBA                                             |                                              |
-| 16/04/2024 | Gabor Wiese           | University of Luxembourg   | Splitting fields of X^n-X-1 and modular forms  |                                              |
-| 30/04/2024 | Ken Ono               | University of Virginia     | TBA                                             |                                              |
-| 14/05/2024 | Kenneth Ribet         | University of California, Berkeley | TBA                                |                                              |
-| 28/05/2024 | Kathrin Bringmann     | University of Cologne       | TBA                                             |                                              |
+| 19/03/2024 | Kaisa Matomäki       | University of Turku        | Primes in arithmetic progressions and short intervals without L-functions                                            |  I will discuss my joint work with Jori Merikoski and Joni Teräväinen where we develop a sieve that can detect primes in multiplicatively structured sets under certain conditions. In particular I will discuss the following two applications: a new L-function free approach to Linnik's problem of bounding the least prime p such that p ≡ a (mod q) (obtaining the bound p << q^{350}) and a new L-function free proof that the interval (x−x^{39/40}, x] contains primes for every large x                                            |
+| 02/04/2024 | Kağan Kurşungöz       | Sabancı University        | TBA                                             |    TBA                                          |
+| 16/04/2024 | Gabor Wiese           | University of Luxembourg   | Splitting fields of X^n-X-1 and modular forms  | In his article `On a theorem of Jordan', Serre considered the family of polynomials f_n(X) = X^n-X-1 and the counting function of the number of roots of f_n over the finite field F_p, seen as function in p. He explicitly showed the `modularity' of this function for n=3,4.
+In this talk, I report on joint work with Alfio Fabio La Rosa and Chandrashekhar Khare, in which we treat the case n=5 in several different ways.                                            |
+| 30/04/2024 | Ken Ono               | University of Virginia     | TBA                                             | TBA                                             |
+| 14/05/2024 | Kenneth Ribet         | University of California, Berkeley | TBA                                |      TBA                                        |
+| 28/05/2024 | Kathrin Bringmann     | University of Cologne       | TBA                                             |    TBA                                          |
 
 
 
