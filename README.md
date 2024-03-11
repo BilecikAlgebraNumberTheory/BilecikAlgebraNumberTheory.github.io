@@ -55,7 +55,7 @@ In these seminars, we examine Algebra and number theory topics, and our goals ar
 
 ## *General Seminar*
 
-Carl Friedrich Gauss's statement "Mathematics is the queen of sciences, the queen of Mathematics is Number Theory". 
+Carl Friedrich Gauss's statement "Mathematics is the queen of sciences, the queen of Mathematics is Number Theory". To participate to the seminar please kindly fill the form: https://forms.gle/GwBGSB8a3NkApU9g6
 
 | Date       | Time                                               | Speaker              | Affiliation                | Title                                           | Abstract                                                                                                                      |
 | -----------| ---------------------------------------------------| -------------------- | -------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
