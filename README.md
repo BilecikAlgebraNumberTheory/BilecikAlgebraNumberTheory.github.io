@@ -40,8 +40,8 @@ In these seminars, we examine Algebra and number theory topics, and our goals ar
 | 20/03/2024 | Zeynep Demirkol Özkaya     | Polynomial Rings                             |
 | 27/03/2024    |Zeynep Demirkol Özkaya     | Euclidean Domains    |
 | 03/04/2024   | İlker İnam       | Unique Factorization Domains    |
-|10/04/2024     | İlker İnam       | Unique Factorization Domains    |
-|17/04/2024     |BANT Team       |   Holiday   |
+|10/04/2024     | BANT Team      | Holiday     |
+|17/04/2024     | İlker İnam        |  Unique Factorization Domains    |
 |24/04/2024     |Zeynep Demirkol Özkaya     |Maximal, Prime and Maximal Ideals     |
 |01/05/2024     | Mine Ateş      | Noetherian and Artinian Rings.   |
 |08/05/2024     |BANT Team       |  Holiday    |
