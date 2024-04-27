@@ -44,8 +44,8 @@ In these seminars, we examine Algebra and number theory topics, and our goals ar
 |10/04/2024     | BANT Team      | Holiday     |
 |17/04/2024     | İlker İnam        |  Unique Factorization Domains    |
 |24/04/2024     |Zeynep Demirkol Özkaya     |Maximal, Prime and Maximal Ideals     |
-|01/05/2024     | Mine Ateş      | Noetherian and Artinian Rings.   |
-|08/05/2024     |BANT Team       |  Holiday    |
+|01/05/2024     | Mine Ateş      | Holiday    |
+|08/05/2024     |BANT Team       |  Noetherian and Artinian Rings.   |
 |15/05/2024     |Elif Ilgaz Çağlayan      | Modules and Vector Spaces     |
 |22/05/2024     |Murat Özyurt      |Rings of Matrices     |
 |29/05/2024      |Zeynep Demirkol Özkaya     | Field Extension     |
