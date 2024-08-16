@@ -15,8 +15,7 @@ BANT Team
 
 In these seminars, we examine Algebra and number theory topics, and our goals are to increase our mathematical maturity and say hello to new bridges in mathematics. We will use book D. S Malik, John M. Mordeson and M. K. Sen, *Fundamentals of Abstract Algebra.* in these seminars
 
-<details>
-<summary>**2023-2024 SEASON**</summary>
+
 
 | Date       | Speaker                    | Title                                      |
 |------------|----------------------------|--------------------------------------------|
@@ -54,7 +53,6 @@ In these seminars, we examine Algebra and number theory topics, and our goals ar
 | 29/05/2024 | Zeynep Demirkol Özkaya     | Field Extension                            |
 | 05/06/2024 | Elif Ilgaz Çağlayan        | Field Extension                            |
 
-</details>
 
 
 ## *General Seminar*
