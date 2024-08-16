@@ -19,45 +19,43 @@ In these seminars, we examine Algebra and number theory topics, and our goals ar
 <details>
 <summary>**2023-2024 SEASON**</summary>
 
-| Date       | Speaker                    | Title                                     |
+| Date       | Speaker                    | Title                                      |
 |------------|----------------------------|--------------------------------------------|
-| 12/10/2023 | İlker İnam                 | Set, Relations, and Integers                |
-| 19/10/2023 | Mine Ateş                  | Introduction to Groups                      |
-| 26/10/2023 | Murat Özyurt               | Permutation Groups                           |
-| 02/11/2023 | Zeynep Demirkol Özkaya     | Subgroups and Normal Subgroups               |
-| 09/11/2023 | Zeynep Demirkol Özkaya     | Subgroups and Normal Subgroups               |
-| 16/11/2023 | BANT Team                  | Time Out                    |
-| 23/11/2023 | Zeynep Demirkol Özkaya     | Subgroups and Normal Subgroups               |
+| 12/10/2023 | İlker İnam                 | Set, Relations, and Integers               |
+| 19/10/2023 | Mine Ateş                  | Introduction to Groups                     |
+| 26/10/2023 | Murat Özyurt               | Permutation Groups                         |
+| 02/11/2023 | Zeynep Demirkol Özkaya     | Subgroups and Normal Subgroups              |
+| 09/11/2023 | Zeynep Demirkol Özkaya     | Subgroups and Normal Subgroups              |
+| 16/11/2023 | BANT Team                  | Time Out                                   |
+| 23/11/2023 | Zeynep Demirkol Özkaya     | Subgroups and Normal Subgroups              |
 | 30/11/2023 | Elif Ilgaz Çağlayan        | Homomorphisms and Isomorphisms of Groups    |
 | 07/12/2023 | Elif Ilgaz Çağlayan        | Homomorphisms and Isomorphisms of Groups    |
-| 14/12/2023 | İlker İnam                 | Direct Product of Groups                     |
-| 21/12/2023 | Zeynep Demirkol Özkaya     | Sylow Theorems                              |
-| 28/12/2023 | Murat Özyurt               | Solvable and Nilpotent Groups                |
-| 04/01/2024 | Pınar Cihan                | Finitely Generated Abelian Groups            |
-| 11/01/2024 | Mine Ateş                  | Introduction to Rings                        |
-| 18/01/2024 | Mine Ateş                  | Some Important Rings                        |
-| 25/01/2024 | BANT Team                  | Winter Break                                |
-| 01/02/2024 | BANT Team                  | Winter Break                                 |
-| 21/02/2024 | BANT Team                  | Winter Break                                 |
-| 28/02/2024 | Pınar Cihan                | Subrings, Ideals, and Homomorphisms          |
-| 06/03/2024 | Elif Ilgaz Çağlayan        | Ring Embedding                               |
-| 13/03/2024 | İlker İnam                 | Direct Sum of Rings                          |
-| 20/03/2024 | Zeynep Demirkol Özkaya     | Polynomial Rings                             |
-| 27/03/2024    |Zeynep Demirkol Özkaya     | Euclidean Domains    |
-| 03/04/2024   | İlker İnam       | Unique Factorization Domains    |
-|10/04/2024     | BANT Team      | Holiday     |
-|17/04/2024     | İlker İnam        |  Unique Factorization Domains    |
-|24/04/2024     |Zeynep Demirkol Özkaya     |Maximal, Prime and Maximal Ideals     |
-|01/05/2024     |  BANT Team      | Holiday    |
-|08/05/2024     | Mine Ateş     |  Noetherian and Artinian Rings.   |
-|15/05/2024     |Elif Ilgaz Çağlayan      | Modules and Vector Spaces     |
-|22/05/2024     |Murat Özyurt      |Rings of Matrices     |
-|29/05/2024      |Zeynep Demirkol Özkaya     | Field Extension     |
-|05/06/2024      | Elif Ilgaz Çağlayan     | Field Extension    |
-
+| 14/12/2023 | İlker İnam                 | Direct Product of Groups                   |
+| 21/12/2023 | Zeynep Demirkol Özkaya     | Sylow Theorems                             |
+| 28/12/2023 | Murat Özyurt               | Solvable and Nilpotent Groups              |
+| 04/01/2024 | Pınar Cihan                | Finitely Generated Abelian Groups          |
+| 11/01/2024 | Mine Ateş                  | Introduction to Rings                      |
+| 18/01/2024 | Mine Ateş                  | Some Important Rings                       |
+| 25/01/2024 | BANT Team                  | Winter Break                               |
+| 01/02/2024 | BANT Team                  | Winter Break                               |
+| 21/02/2024 | BANT Team                  | Winter Break                               |
+| 28/02/2024 | Pınar Cihan                | Subrings, Ideals, and Homomorphisms        |
+| 06/03/2024 | Elif Ilgaz Çağlayan        | Ring Embedding                             |
+| 13/03/2024 | İlker İnam                 | Direct Sum of Rings                        |
+| 20/03/2024 | Zeynep Demirkol Özkaya     | Polynomial Rings                           |
+| 27/03/2024 | Zeynep Demirkol Özkaya     | Euclidean Domains                          |
+| 03/04/2024 | İlker İnam                 | Unique Factorization Domains               |
+| 10/04/2024 | BANT Team                  | Holiday                                    |
+| 17/04/2024 | İlker İnam                 | Unique Factorization Domains               |
+| 24/04/2024 | Zeynep Demirkol Özkaya     | Maximal, Prime, and Maximal Ideals         |
+| 01/05/2024 | BANT Team                  | Holiday                                    |
+| 08/05/2024 | Mine Ateş                  | Noetherian and Artinian Rings              |
+| 15/05/2024 | Elif Ilgaz Çağlayan        | Modules and Vector Spaces                  |
+| 22/05/2024 | Murat Özyurt               | Rings of Matrices                          |
+| 29/05/2024 | Zeynep Demirkol Özkaya     | Field Extension                            |
+| 05/06/2024 | Elif Ilgaz Çağlayan        | Field Extension                            |
 
 </details>
-
 
 
 
