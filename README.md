@@ -89,25 +89,6 @@ To participate in the seminar please kindly fill the form: [Seminar Form](https:
 
 
 
-# BANT Working Group Seminar
-
-
-
-<details>
-<summary>Başlık 2: Temel Kavramlar</summary>
-Bu bölümde temel matematiksel kavramları inceleyeceğiz.
-</details>
-
-<details>
-<summary>Başlık 3: Örnek Problemler</summary>
-Bu bölümde örnek problemleri çözerek konuyu pekiştireceğiz.
-</details>
-
-<!-- Diğer başlıklarınızı buraya ekleyebilirsiniz. -->
-
-
-
-
 
 
 
