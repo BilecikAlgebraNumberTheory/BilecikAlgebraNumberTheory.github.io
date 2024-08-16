@@ -88,20 +88,24 @@ To participate in the seminar please kindly fill the form: [Seminar Form](https:
 
 
 
+# BANT Working Group Seminar
 
-# İçindekiler
+<details>
+<summary>Başlık 1: Giriş</summary>
+Bu bölümde Algebra ve number theory konularının temel prensiplerine giriş yapacağız.
+</details>
 
-•⁠  ⁠[Kategori 1](#kategori 1)
-•⁠  ⁠[Kategori 2](#kategori 2)
+<details>
+<summary>Başlık 2: Temel Kavramlar</summary>
+Bu bölümde temel matematiksel kavramları inceleyeceğiz.
+</details>
 
-# Kategori 1
+<details>
+<summary>Başlık 3: Örnek Problemler</summary>
+Bu bölümde örnek problemleri çözerek konuyu pekiştireceğiz.
+</details>
 
-Buraya Kategori 1 içeriğinizi ekleyin.
-
-# Kategori 2
-
-Buraya Kategori 2 içeriğinizi ekleyin.
-
+<!-- Diğer başlıklarınızı buraya ekleyebilirsiniz. -->
 
 
 
