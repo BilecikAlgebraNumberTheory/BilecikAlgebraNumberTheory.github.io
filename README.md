@@ -17,7 +17,7 @@ In these seminars, we examine Algebra and number theory topics, and our goals ar
 
 
 <details>
-<summary> *2023-2024 SEASON* </summary>
+<summary>**2023-2024 SEASON**</summary>
 
 | Date       | Speaker                    | Title                                      |
 |------------|----------------------------|--------------------------------------------|
