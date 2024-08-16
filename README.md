@@ -89,7 +89,18 @@ To participate in the seminar please kindly fill the form: [Seminar Form](https:
 
 
 
+# İçindekiler
 
+•⁠  ⁠[Kategori 1](#kategori-1)
+•⁠  ⁠[Kategori 2](#kategori-2)
+
+# Kategori 1
+
+Buraya Kategori 1 içeriğinizi ekleyin.
+
+# Kategori 2
+
+Buraya Kategori 2 içeriğinizi ekleyin.
 
 
 
