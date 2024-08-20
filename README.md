@@ -13,10 +13,12 @@ BANT Team
 
 ## *BANT Working Group Seminar*
 
+  <p>In these seminars, we examine Algebra and number theory topics, and our goals are to increase our mathematical maturity and say hello to new bridges in mathematics.</p>
+  
 <details>
   <summary>2023- 2024 Academic Year</summary>
 
-  <p>In these seminars, we examine Algebra and number theory topics, and our goals are to increase our mathematical maturity and say hello to new bridges in mathematics. We will use book D. S Malik, John M. Mordeson and M. K. Sen, <i>Fundamentals of Abstract Algebra</i>. in these seminars</p>
+  <p> This academic year we will use book D. S Malik, John M. Mordeson and M. K. Sen, <i>Fundamentals of Abstract Algebra</i>. in these seminars</p>
 
   <table>
     <thead>
