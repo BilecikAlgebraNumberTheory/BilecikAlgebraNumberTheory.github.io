@@ -14,7 +14,7 @@ BANT Team
 ## *BANT Working Group Seminar*
 
 <details>
-  <summary>Seminar Schedule</summary>
+  <summary>2023- 2024 Academic Year</summary>
 
   <p>In these seminars, we examine Algebra and number theory topics, and our goals are to increase our mathematical maturity and say hello to new bridges in mathematics. We will use book D. S Malik, John M. Mordeson and M. K. Sen, <i>Fundamentals of Abstract Algebra</i>. in these seminars</p>
 
@@ -200,18 +200,78 @@ BANT Team
 
 ## *General Seminar*
 
-Carl Friedrich Gauss's statement "Mathematics is the queen of sciences, the queen of Mathematics is Number Theory". 
-To participate in the seminar please kindly fill the form: [Seminar Form](https://forms.gle/5UMcN7eSV8qBDrdM9)
+  <p>Carl Friedrich Gauss's statement "Mathematics is the queen of sciences, the queen of Mathematics is Number Theory". To participate in the seminar please kindly fill the form: <a href="https://forms.gle/5UMcN7eSV8qBDrdM9">Seminar Form</a></p>
+
+  
+<details>
+  <summary>2023- 2024 Academic Year</summary>
 
 
-| Date       | Time                                               | Speaker              | Affiliation                | Title                                           | Abstract                                                                                                                      |
-| -----------| ---------------------------------------------------| -------------------- | -------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| 19/03/2024  | 16:00 Istanbul / 14:00 Berlin / 13:00 London / 22:00 Seoul / 08:00 New York | Kaisa Matomäki       | University of Turku        | Primes in arithmetic progressions and short intervals without L-functions                                            | I will discuss my joint work with Jori Merikoski and Joni Teräväinen where we develop a sieve that can detect primes in multiplicatively structured sets under certain conditions. In particular, I will discuss the following two applications: a new L-function free approach to Linnik's problem of bounding the least prime p such that p ≡ a (mod q) (obtaining the bound p << q^{350}) and a new L-function free proof that the interval (x−x^{39/40}, x] contains primes for every large x                                            |
-| 02/04/2024 | 16.00 Istanbul / 15:00 Berlin / 14:00 London / 23:00 Seoul / 07:00 New York | Kağan Kurşungöz       | Sabancı University        | A Decomposition of Cylindric Partitions and Cylindric Partitions into Distinct Parts| After relevant definitions, some motivation, and some results from the literature, we will show that cylindrical decompositions correspond exactly to pairs of an ordinary decomposition and a colored decomposition into different parts. According to the remaining time, we will explain how to obtain the generator functions of cylindrical decompositions in different sections and give examples. This study is a joint work with Halime Ömrüuzun Seyrek  ([https://arxiv.org/abs/2308.14514](https://arxiv.org/abs/2308.14514)) .  |
-| 16/04/2024 | 16:00 Istanbul / 15:00 Berlin / 14:00 London / 22:00 Seoul / 06:00 New York| Gabor Wiese           | University of Luxembourg   | Splitting fields of X^n-X-1 and modular forms  | In his article 'On a theorem of Jordan', Serre considered the family of polynomials f_n(X) = X^n-X-1 and the counting function of the number of roots of f_n over the finite field F_p, seen as function in p. He explicitly showed the 'modularity' of this function for n=3,4. In this talk, I report on joint work with Alfio Fabio La Rosa and Chandrashekhar Khare, in which we treat the case n=5 in several different ways.                                            |
-| 30/04/2024 | 16:00 Istanbul / 15:00 Berlin / 14:00 London / 22:00 Seoul / 06:00 New York | Ken Ono               | University of Virginia     | The partition function modulo 2 and 4 | The Ramanujan congruences for the partition function have an extraordinary legacy in mathematics. These days research abounds with new congruences for various sorts of restricted partition functions. Unfortunately, very little is known about p(n) modulo powers of 2. In this talk, the speaker will discuss new and old results about the partition function modulo 2 and 4, and will offer a few precise open questions with the idea of catalyzing work in the area. |
-| 14/05/2024 | **18:00 Istanbul** / **17:00 Berlin** / **16:00 London** / **00:00 Seoul** / **08:00 New York** | Kenneth Ribet         | University of California, Berkeley | Cyclotomic points on abelian varieties | Roughly 30 years ago, I proved: Suppose that A is an abelian variety over a number field K. Then A has only a finite number of torsion points defined over the maximal cyclotomic extension of K. After explaining the ingredients of the proof, I will highlight some questions suggested by this theorem. One natural project is to compute the group of cyclotomic torsion points in some specific examples. If A is J_0(N), where N is a prime number, then the group of torsion points on A over the maximal cyclotomic extension of Q is the kernel of the Eisenstein ideal on A. |
-| 28/05/2024 | 16:00 Istanbul / 15:00 Berlin / 14:00 London / 22:00 Seoul / 06:00 New York | Kathrin Bringmann     | University of Cologne       | Modular-Type Objects and Asymptotics of Their Coefficients                   |    İn my talk I will report on asymptotics for Fourier coefficients of modular forms and related objects      |
+
+  <table>
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Time</th>
+        <th>Speaker</th>
+        <th>Affiliation</th>
+        <th>Title</th>
+        <th>Abstract</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>19/03/2024</td>
+        <td>16:00 Istanbul / 14:00 Berlin / 13:00 London / 22:00 Seoul / 08:00 New York</td>
+        <td>Kaisa Matomäki</td>
+        <td>University of Turku</td>
+        <td>Primes in arithmetic progressions and short intervals without L-functions</td>
+        <td>I will discuss my joint work with Jori Merikoski and Joni Teräväinen where we develop a sieve that can detect primes in multiplicatively structured sets under certain conditions. In particular, I will discuss the following two applications: a new L-function free approach to Linnik's problem of bounding the least prime p such that p ≡ a (mod q) (obtaining the bound p << q<sup>350</sup>) and a new L-function free proof that the interval (x−x<sup>39/40</sup>, x] contains primes for every large x.</td>
+      </tr>
+      <tr>
+        <td>02/04/2024</td>
+        <td>16.00 Istanbul / 15:00 Berlin / 14:00 London / 23:00 Seoul / 07:00 New York</td>
+        <td>Kağan Kurşungöz</td>
+        <td>Sabancı University</td>
+        <td>A Decomposition of Cylindric Partitions and Cylindric Partitions into Distinct Parts</td>
+        <td>After relevant definitions, some motivation, and some results from the literature, we will show that cylindrical decompositions correspond exactly to pairs of an ordinary decomposition and a colored decomposition into different parts. According to the remaining time, we will explain how to obtain the generator functions of cylindrical decompositions in different sections and give examples. This study is a joint work with Halime Ömrüuzun Seyrek (<a href="https://arxiv.org/abs/2308.14514">https://arxiv.org/abs/2308.14514</a>).</td>
+      </tr>
+      <tr>
+        <td>16/04/2024</td>
+        <td>16:00 Istanbul / 15:00 Berlin / 14:00 London / 22:00 Seoul / 06:00 New York</td>
+        <td>Gabor Wiese</td>
+        <td>University of Luxembourg</td>
+        <td>Splitting fields of X<sup>n</sup>-X-1 and modular forms</td>
+        <td>In his article 'On a theorem of Jordan', Serre considered the family of polynomials f<sub>n</sub>(X) = X<sup>n</sup>-X-1 and the counting function of the number of roots of f<sub>n</sub> over the finite field F<sub>p</sub>, seen as function in p. He explicitly showed the 'modularity' of this function for n=3,4. In this talk, I report on joint work with Alfio Fabio La Rosa and Chandrashekhar Khare, in which we treat the case n=5 in several different ways.</td>
+      </tr>
+      <tr>
+        <td>30/04/2024</td>
+        <td>16:00 Istanbul / 15:00 Berlin / 14:00 London / 22:00 Seoul / 06:00 New York</td>
+        <td>Ken Ono</td>
+        <td>University of Virginia</td>
+        <td>The partition function modulo 2 and 4</td>
+        <td>The Ramanujan congruences for the partition function have an extraordinary legacy in mathematics. These days research abounds with new congruences for various sorts of restricted partition functions. Unfortunately, very little is known about p(n) modulo powers of 2. In this talk, the speaker will discuss new and old results about the partition function modulo 2 and 4, and will offer a few precise open questions with the idea of catalyzing work in the area.</td>
+      </tr>
+      <tr>
+        <td>14/05/2024</td>
+        <td><strong>18:00 Istanbul</strong> / <strong>17:00 Berlin</strong> / <strong>16:00 London</strong> / <strong>00:00 Seoul</strong> / <strong>08:00 New York</strong></td>
+        <td>Kenneth Ribet</td>
+        <td>University of California, Berkeley</td>
+        <td>Cyclotomic points on abelian varieties</td>
+        <td>Roughly 30 years ago, I proved: Suppose that A is an abelian variety over a number field K. Then A has only a finite number of torsion points defined over the maximal cyclotomic extension of K. After explaining the ingredients of the proof, I will highlight some questions suggested by this theorem. One natural project is to compute the group of cyclotomic torsion points in some specific examples. If A is J<sub>0</sub>(N), where N is a prime number, then the group of torsion points on A over the maximal cyclotomic extension of Q is the kernel of the Eisenstein ideal on A.</td>
+      </tr>
+      <tr>
+        <td>28/05/2024</td>
+        <td>16:00 Istanbul / 15:00 Berlin / 14:00 London / 22:00 Seoul / 06:00 New York</td>
+        <td>Kathrin Bringmann</td>
+        <td>University of Cologne</td>
+        <td>Modular-Type Objects and Asymptotics of Their Coefficients</td>
+        <td>In my talk I will report on asymptotics for Fourier coefficients of modular forms and related objects.</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+
 
 
 ## *Group Members*
