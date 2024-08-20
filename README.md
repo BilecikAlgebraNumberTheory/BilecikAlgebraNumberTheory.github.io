@@ -14,6 +14,25 @@ BANT Team
 ## *BANT Working Group Seminar*
 
   <p>In these seminars, we examine Algebra and number theory topics, and our goals are to increase our mathematical maturity and say hello to new bridges in mathematics.</p>
+
+
+| Date | Speaker | Title |
+|------|---------|-------|
+| TBA  | TBA     | TBA   |
+| TBA  | TBA     | TBA   |
+| TBA  | TBA     | TBA   |
+| TBA  | TBA     | TBA   |
+| TBA  | TBA     | TBA   |
+| TBA  | TBA     | TBA   |
+| TBA  | TBA     | TBA   |
+| TBA  | TBA     | TBA   |
+| TBA  | TBA     | TBA   |
+| TBA  | TBA     | TBA   |
+| TBA  | TBA     | TBA   |
+| TBA  | TBA     | TBA   |
+| TBA  | TBA     | TBA   |
+
+
   
 <details>
   <summary>2023- 2024 Academic Year</summary>
@@ -204,6 +223,17 @@ BANT Team
 
   <p>Carl Friedrich Gauss's statement "Mathematics is the queen of sciences, the queen of Mathematics is Number Theory". To participate in the seminar please kindly fill the form: <a href="https://forms.gle/5UMcN7eSV8qBDrdM9">Seminar Form</a></p>
 
+
+| Date | Speaker | Title | Affiliation | Title | Abstract |
+|------|---------|-------|-------------|-------|----------|
+| TBA  | TBA     | TBA   | TBA         | TBA   | TBA      |
+| TBA  | TBA     | TBA   | TBA         | TBA   | TBA      |
+| TBA  | TBA     | TBA   | TBA         | TBA   | TBA      |
+| TBA  | TBA     | TBA   | TBA         | TBA   | TBA      |
+| TBA  | TBA     | TBA   | TBA         | TBA   | TBA      |
+| TBA  | TBA     | TBA   | TBA         | TBA   | TBA      |
+| TBA  | TBA     | TBA   | TBA         | TBA   | TBA      |
+| TBA  | TBA     | TBA   | TBA         | TBA   | TBA      |
   
 <details>
   <summary>2023- 2024 Academic Year</summary>
