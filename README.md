@@ -35,7 +35,7 @@ BANT Team
 
   
 <details>
-  <summary>*2023–2024 Academic Year BANT Working Group Seminars*</summary>
+  <summary>2023–2024 Academic Year BANT Working Group Seminars</summary>
 
   <p> This academic year, we will use  book D. S Malik, John M. Mordeson and M. K. Sen, <i>Fundamentals of Abstract Algebra</i>. in these seminars.</p>
 
