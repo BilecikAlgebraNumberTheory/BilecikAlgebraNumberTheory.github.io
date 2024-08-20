@@ -60,12 +60,13 @@ In these seminars, we examine Algebra and number theory topics, and our goals ar
 
 Burada açılır içerik bulunuyor. 
 
-1. Madde 1
-2. Madde 2
+# Başlık
 
-**Kalın Metin**
+| Başlık 1 | Başlık 2 |
+|----------|----------|
+| Hücre 1  | Hücre 2  |
+| Hücre 3  | Hücre 4  |
 
-*İtalik Metin*
 
 </details>
 
