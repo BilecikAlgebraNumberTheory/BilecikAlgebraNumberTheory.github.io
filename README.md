@@ -54,21 +54,32 @@ In these seminars, we examine Algebra and number theory topics, and our goals ar
 | 05/06/2024 | Elif Ilgaz Çağlayan        | Field Extension                            |
 
 
-
 <details>
-<summary>Başlık</summary>
+  <summary>Başlık</summary>
+  <p>Burada açılır içerik bulunuyor.</p>
 
-Burada açılır içerik bulunuyor. 
+  <h1>Başlık</h1>
 
-# Başlık
-
-| Başlık 1 | Başlık 2 |
-|----------|----------|
-| Hücre 1  | Hücre 2  |
-| Hücre 3  | Hücre 4  |
-
-
+  <table>
+    <thead>
+      <tr>
+        <th>Başlık 1</th>
+        <th>Başlık 2</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Hücre 1</td>
+        <td>Hücre 2</td>
+      </tr>
+      <tr>
+        <td>Hücre 3</td>
+        <td>Hücre 4</td>
+      </tr>
+    </tbody>
+  </table>
 </details>
+
 
 
 ## *General Seminar*
