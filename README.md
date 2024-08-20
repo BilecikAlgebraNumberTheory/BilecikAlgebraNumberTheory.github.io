@@ -55,10 +55,9 @@ In these seminars, we examine Algebra and number theory topics, and our goals ar
 
 
 <details>
-  <summary>Başlık</summary>
-  <p>Burada açılır içerik bulunuyor.</p>
+  <summary>2024-2025 Academic Year</summary>
+  <p>In these seminars, we examine Algebra and number theory topics, and our goals are to increase our mathematical maturity and say hello to new bridges in mathematics. We will use book D. S Malik, John M. Mordeson and M. K. Sen, *Fundamentals of Abstract Algebra.* in these seminars.</p>
 
-  <h1>Başlık</h1>
 
   <table>
     <thead>
