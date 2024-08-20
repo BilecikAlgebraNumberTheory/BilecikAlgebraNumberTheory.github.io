@@ -11,7 +11,7 @@ We look forward to the opportunity to meet face to face and turn coffee meetings
 Kind regards,
 BANT Team
 
-## *BANT Working Group Seminar*
+## *BANT Working Group Seminars*
 
   <p>In these seminars, we examine Algebra and number theory topics, and our goals are to increase our mathematical maturity and say hello to new bridges in mathematics.</p>
 
@@ -35,7 +35,7 @@ BANT Team
 
   
 <details>
-  <summary>2023- 2024 Academic Year</summary>
+  <summary>2023–2024 Academic Year BANT Working Group Seminars</summary>
 
   <p> This academic year, we will use  book D. S Malik, John M. Mordeson and M. K. Sen, <i>Fundamentals of Abstract Algebra</i>. in these seminars.</p>
 
@@ -219,7 +219,7 @@ BANT Team
 
 
 
-## *General Seminar*
+## *General Seminars*
 
   <p>Carl Friedrich Gauss's statement "Mathematics is the queen of sciences, the queen of Mathematics is Number Theory". To participate in the seminar please kindly fill the form: <a href="https://forms.gle/5UMcN7eSV8qBDrdM9">Seminar Form</a></p>
 
@@ -236,7 +236,7 @@ BANT Team
 | TBA  | TBA     | TBA   | TBA         | TBA   | TBA      |
   
 <details>
-  <summary>2023- 2024 Academic Year</summary>
+  <summary>2023–2024 Academic Year General Seminars</summary>
 
 
 
