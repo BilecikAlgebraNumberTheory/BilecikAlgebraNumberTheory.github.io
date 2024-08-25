@@ -33,223 +33,190 @@ BANT Team
 | TBA  | TBA     | TBA   |
 
 
-  <!DOCTYPE html>
-<html lang="tr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Seminerler</title>
-    <style>
-        summary {
-            color: blue; /* Başlığı mavi renkte yapar */
-            font-weight: bold; /* Başlığı kalın yapar (isteğe bağlı) */
-        }
+<details>
+  <summary>2023–2024 Academic Year BANT Working Group Seminars</summary>
 
-        table {
-            width: 100%; /* Tabloyu genişletir */
-            border-collapse: collapse; /* Çift sınırları kaldırır */
-        }
+  <p> This academic year, we will use  book D. S Malik, John M. Mordeson and M. K. Sen, <i>Fundamentals of Abstract Algebra</i>. in these seminars.</p>
 
-        th, td {
-            border: 1px solid #ddd; /* Hücrelere sınır ekler */
-            padding: 8px; /* Hücrelere iç boşluk ekler */
-            text-align: left; /* Metni sola hizalar */
-        }
+  <table>
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Speaker</th>
+        <th>Title</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>12/10/2023</td>
+        <td>İlker İnam</td>
+        <td>Set, Relations, and Integers</td>
+      </tr>
+      <tr>
+        <td>19/10/2023</td>
+        <td>Mine Ateş</td>
+        <td>Introduction to Groups</td>
+      </tr>
+      <tr>
+        <td>26/10/2023</td>
+        <td>Murat Özyurt</td>
+        <td>Permutation Groups</td>
+      </tr>
+      <tr>
+        <td>02/11/2023</td>
+        <td>Zeynep Demirkol Özkaya</td>
+        <td>Subgroups and Normal Subgroups</td>
+      </tr>
+      <tr>
+        <td>09/11/2023</td>
+        <td>Zeynep Demirkol Özkaya</td>
+        <td>Subgroups and Normal Subgroups</td>
+      </tr>
+      <tr>
+        <td>16/11/2023</td>
+        <td>BANT Team</td>
+        <td>Time Out</td>
+      </tr>
+      <tr>
+        <td>23/11/2023</td>
+        <td>Zeynep Demirkol Özkaya</td>
+        <td>Subgroups and Normal Subgroups</td>
+      </tr>
+      <tr>
+        <td>30/11/2023</td>
+        <td>Elif Ilgaz Çağlayan</td>
+        <td>Homomorphisms and Isomorphisms of Groups</td>
+      </tr>
+      <tr>
+        <td>07/12/2023</td>
+        <td>Elif Ilgaz Çağlayan</td>
+        <td>Homomorphisms and Isomorphisms of Groups</td>
+      </tr>
+      <tr>
+        <td>14/12/2023</td>
+        <td>İlker İnam</td>
+        <td>Direct Product of Groups</td>
+      </tr>
+      <tr>
+        <td>21/12/2023</td>
+        <td>Zeynep Demirkol Özkaya</td>
+        <td>Sylow Theorems</td>
+      </tr>
+      <tr>
+        <td>28/12/2023</td>
+        <td>Murat Özyurt</td>
+        <td>Solvable and Nilpotent Groups</td>
+      </tr>
+      <tr>
+        <td>04/01/2024</td>
+        <td>Pınar Cihan</td>
+        <td>Finitely Generated Abelian Groups</td>
+      </tr>
+      <tr>
+        <td>11/01/2024</td>
+        <td>Mine Ateş</td>
+        <td>Introduction to Rings</td>
+      </tr>
+      <tr>
+        <td>18/01/2024</td>
+        <td>Mine Ateş</td>
+        <td>Some Important Rings</td>
+      </tr>
+      <tr>
+        <td>25/01/2024</td>
+        <td>BANT Team</td>
+        <td>Winter Break</td>
+      </tr>
+      <tr>
+        <td>01/02/2024</td>
+        <td>BANT Team</td>
+        <td>Winter Break</td>
+      </tr>
+      <tr>
+        <td>21/02/2024</td>
+        <td>BANT Team</td>
+        <td>Winter Break</td>
+      </tr>
+      <tr>
+        <td>28/02/2024</td>
+        <td>Pınar Cihan</td>
+        <td>Subrings, Ideals, and Homomorphisms</td>
+      </tr>
+      <tr>
+        <td>06/03/2024</td>
+        <td>Elif Ilgaz Çağlayan</td>
+        <td>Ring Embedding</td>
+      </tr>
+      <tr>
+        <td>13/03/2024</td>
+        <td>İlker İnam</td>
+        <td>Direct Sum of Rings</td>
+      </tr>
+      <tr>
+        <td>20/03/2024</td>
+        <td>Zeynep Demirkol Özkaya</td>
+        <td>Polynomial Rings</td>
+      </tr>
+      <tr>
+        <td>27/03/2024</td>
+        <td>Zeynep Demirkol Özkaya</td>
+        <td>Euclidean Domains</td>
+      </tr>
+      <tr>
+        <td>03/04/2024</td>
+        <td>İlker İnam</td>
+        <td>Unique Factorization Domains</td>
+      </tr>
+      <tr>
+        <td>10/04/2024</td>
+        <td>BANT Team</td>
+        <td>Holiday</td>
+      </tr>
+      <tr>
+        <td>17/04/2024</td>
+        <td>İlker İnam</td>
+        <td>Unique Factorization Domains</td>
+      </tr>
+      <tr>
+        <td>24/04/2024</td>
+        <td>Zeynep Demirkol Özkaya</td>
+        <td>Maximal, Prime, and Maximal Ideals</td>
+      </tr>
+      <tr>
+        <td>01/05/2024</td>
+        <td>BANT Team</td>
+        <td>Holiday</td>
+      </tr>
+      <tr>
+        <td>08/05/2024</td>
+        <td>Mine Ateş</td>
+        <td>Noetherian and Artinian Rings</td>
+      </tr>
+      <tr>
+        <td>15/05/2024</td>
+        <td>Elif Ilgaz Çağlayan</td>
+        <td>Modules and Vector Spaces</td>
+      </tr>
+      <tr>
+        <td>22/05/2024</td>
+        <td>Murat Özyurt</td>
+        <td>Rings of Matrices</td>
+      </tr>
+      <tr>
+        <td>29/05/2024</td>
+        <td>Zeynep Demirkol Özkaya</td>
+        <td>Field Extension</td>
+      </tr>
+      <tr>
+        <td>05/06/2024</td>
+        <td>Elif Ilgaz Çağlayan</td>
+        <td>Field Extension</td>
+      </tr>
+    </tbody>
+  </table>
+</details>
 
-        th {
-            background-color: #f4f4f4; /* Başlık hücreleri için arka plan rengi */
-        }
-
-        tr:nth-child(even) {
-            background-color: #f9f9f9; /* Çift numaralı satırlar için arka plan rengi */
-        }
-    </style>
-</head>
-<body>
-    <details>
-        <summary>2023–2024 Academic Year BANT Working Group Seminars</summary>
-        <p>This academic year, we will use the book D. S Malik, John M. Mordeson and M. K. Sen, <i>Fundamentals of Abstract Algebra</i> in these seminars.</p>
-        <table>
-            <thead>
-                <tr>
-                    <th>Date</th>
-                    <th>Speaker</th>
-                    <th>Title</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>12/10/2023</td>
-                    <td>İlker İnam</td>
-                    <td>Set, Relations, and Integers</td>
-                </tr>
-                <tr>
-                    <td>19/10/2023</td>
-                    <td>Mine Ateş</td>
-                    <td>Introduction to Groups</td>
-                </tr>
-                <tr>
-                    <td>26/10/2023</td>
-                    <td>Murat Özyurt</td>
-                    <td>Permutation Groups</td>
-                </tr>
-                <tr>
-                    <td>02/11/2023</td>
-                    <td>Zeynep Demirkol Özkaya</td>
-                    <td>Subgroups and Normal Subgroups</td>
-                </tr>
-                <tr>
-                    <td>09/11/2023</td>
-                    <td>Zeynep Demirkol Özkaya</td>
-                    <td>Subgroups and Normal Subgroups</td>
-                </tr>
-                <tr>
-                    <td>16/11/2023</td>
-                    <td>BANT Team</td>
-                    <td>Time Out</td>
-                </tr>
-                <tr>
-                    <td>23/11/2023</td>
-                    <td>Zeynep Demirkol Özkaya</td>
-                    <td>Subgroups and Normal Subgroups</td>
-                </tr>
-                <tr>
-                    <td>30/11/2023</td>
-                    <td>Elif Ilgaz Çağlayan</td>
-                    <td>Homomorphisms and Isomorphisms of Groups</td>
-                </tr>
-                <tr>
-                    <td>07/12/2023</td>
-                    <td>Elif Ilgaz Çağlayan</td>
-                    <td>Homomorphisms and Isomorphisms of Groups</td>
-                </tr>
-                <tr>
-                    <td>14/12/2023</td>
-                    <td>İlker İnam</td>
-                    <td>Direct Product of Groups</td>
-                </tr>
-                <tr>
-                    <td>21/12/2023</td>
-                    <td>Zeynep Demirkol Özkaya</td>
-                    <td>Sylow Theorems</td>
-                </tr>
-                <tr>
-                    <td>28/12/2023</td>
-                    <td>Murat Özyurt</td>
-                    <td>Solvable and Nilpotent Groups</td>
-                </tr>
-                <tr>
-                    <td>04/01/2024</td>
-                    <td>Pınar Cihan</td>
-                    <td>Finitely Generated Abelian Groups</td>
-                </tr>
-                <tr>
-                    <td>11/01/2024</td>
-                    <td>Mine Ateş</td>
-                    <td>Introduction to Rings</td>
-                </tr>
-                <tr>
-                    <td>18/01/2024</td>
-                    <td>Mine Ateş</td>
-                    <td>Some Important Rings</td>
-                </tr>
-                <tr>
-                    <td>25/01/2024</td>
-                    <td>BANT Team</td>
-                    <td>Winter Break</td>
-                </tr>
-                <tr>
-                    <td>01/02/2024</td>
-                    <td>BANT Team</td>
-                    <td>Winter Break</td>
-                </tr>
-                <tr>
-                    <td>21/02/2024</td>
-                    <td>BANT Team</td>
-                    <td>Winter Break</td>
-                </tr>
-                <tr>
-                    <td>28/02/2024</td>
-                    <td>Pınar Cihan</td>
-                    <td>Subrings, Ideals, and Homomorphisms</td>
-                </tr>
-                <tr>
-                    <td>06/03/2024</td>
-                    <td>Elif Ilgaz Çağlayan</td>
-                    <td>Ring Embedding</td>
-                </tr>
-                <tr>
-                    <td>13/03/2024</td>
-                    <td>İlker İnam</td>
-                    <td>Direct Sum of Rings</td>
-                </tr>
-                <tr>
-                    <td>20/03/2024</td>
-                    <td>Zeynep Demirkol Özkaya</td>
-                    <td>Polynomial Rings</td>
-                </tr>
-                <tr>
-                    <td>27/03/2024</td>
-                    <td>Zeynep Demirkol Özkaya</td>
-                    <td>Euclidean Domains</td>
-                </tr>
-                <tr>
-                    <td>03/04/2024</td>
-                    <td>İlker İnam</td>
-                    <td>Unique Factorization Domains</td>
-                </tr>
-                <tr>
-                    <td>10/04/2024</td>
-                    <td>BANT Team</td>
-                    <td>Holiday</td>
-                </tr>
-                <tr>
-                    <td>17/04/2024</td>
-                    <td>İlker İnam</td>
-                    <td>Unique Factorization Domains</td>
-                </tr>
-                <tr>
-                    <td>24/04/2024</td>
-                    <td>Zeynep Demirkol Özkaya</td>
-                    <td>Maximal, Prime, and Maximal Ideals</td>
-                </tr>
-                <tr>
-                    <td>01/05/2024</td>
-                    <td>BANT Team</td>
-                    <td>Holiday</td>
-                </tr>
-                <tr>
-                    <td>08/05/2024</td>
-                    <td>Mine Ateş</td>
-                    <td>Noetherian and Artinian Rings</td>
-                </tr>
-                <tr>
-                    <td>15/05/2024</td>
-                    <td>Elif Ilgaz Çağlayan</td>
-                    <td>Modules and Vector Spaces</td>
-                </tr>
-                <tr>
-                    <td>22/05/2024</td>
-                    <td>Murat Özyurt</td>
-                    <td>Rings of Matrices</td>
-                </tr>
-                <tr>
-                    <td>29/05/2024</td>
-                    <td>Zeynep Demirkol Özkaya</td>
-                    <td>Field Extension</td>
-                </tr>
-                <tr>
-                    <td>05/06/2024</td>
-                    <td>Elif Ilgaz Çağlayan</td>
-                    <td>Field Extension</td>
-                </tr>
-            </tbody>
-        </table>
-    </details>
-</body>
-</html>
-
-
+ 
 ## *General Seminars*
 
   <p>Carl Friedrich Gauss's statement "Mathematics is the queen of sciences, the queen of Mathematics is Number Theory". To participate in the seminar please kindly fill the form: <a href="https://forms.gle/5UMcN7eSV8qBDrdM9">Seminar Form</a></p>
