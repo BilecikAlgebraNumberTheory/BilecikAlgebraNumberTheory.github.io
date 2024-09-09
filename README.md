@@ -311,11 +311,11 @@ BANT Team
 | ------------------------ |
 | Mine Ateş                |
 | Zekiye Pınar Cihan       |
-| Elif Ilgaz Çağlayan      |
+| [Elif Ilgaz Çağlayan ](https://avesis.bilecik.edu.tr/elif.caglayan)      |
 | Şevval Dündar            |
-| İlker İnam               |
+| [ İlker İnam  ](https://avesis.bilecik.edu.tr/ilker.inam)              |
 | Bahar Kuloğlu            |
-| Zeynep Demirkol Özkaya   |
+|  [ Zeynep Demirkol Özkaya  ](https://avesis.yyu.edu.tr/zeynepdemirkolozkaya)  |
 | Murat Özyurt             |
 
 
