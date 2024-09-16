@@ -224,7 +224,7 @@ BANT Team
 
 | Date | Speaker | Title | Affiliation | Title | Abstract |
 |------|---------|-------|-------------|-------|----------|
-| TBA  | TBA     | TBA   | TBA         | TBA   | TBA      |
+| 12/10/2024  | Florian Luca    | University of the Witwatersrand   | TBA         | TBA   | TBA      |
 | TBA  | TBA     | TBA   | TBA         | TBA   | TBA      |
 | TBA  | TBA     | TBA   | TBA         | TBA   | TBA      |
 | TBA  | TBA     | TBA   | TBA         | TBA   | TBA      |
