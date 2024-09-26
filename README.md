@@ -227,15 +227,12 @@ BANT Team
 | 15/10/2024  | TBA   | Igor Shparlinski | University of New South Wales        | Moments and non-vanishing of $L$-functions over thin subgroups   | We obtain an asymptotic formula for all moments of Dirichlet $L$-functions $L(1,\chi)$ modulo $p$ when averaged over a
 subgroup of characters $\chi$ of size $(p-1)/d$ with $\varphi(d)=o(\log p)$.  Assuming the infinitude of Mersenne primes,
 the range of our result is optimal and improves and generalises the previous result of S.~Louboutin and M.~Munsch (2022)
-for second moments.
-
+for second moments.  
 We also give  get an asymptotic formula for the  second moment of $L(1/2,\chi)$ over subgroups of characters of similar
 size. This leads to non-vanishing results which in some cases improve those of E. Fouvry, E. Kowalski and P. Michel (2023).
-
 Additionally, we prove that, in both cases, we can take much smaller subgroups for almost all primes $p$. Our method relies
 on pointwise and average estimates on small solutions of linear congruences which in turn leads us to  use and modify some
 results of J.~Bourgain, S.~V.~Konyagin and I.~E.~Shparlinski (2008) on product sets of Farey fractions.
-
 Joint work with Marc Munsch.|
 | TBA  | TBA     |   | TBA         | TBA   | TBA      |
 | TBA  |Ade Irma Suriajaya | TBA  | Kyushu University | TBA   | TBA      |
