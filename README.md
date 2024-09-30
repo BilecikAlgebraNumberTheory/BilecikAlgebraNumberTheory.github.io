@@ -16,21 +16,22 @@ BANT Team
   <p>In these seminars, we examine Algebra and number theory topics, and our goals are to increase our mathematical maturity and say hello to new bridges in mathematics.</p>
 
 
-| Date | Speaker | Title |
-|------|---------|-------|
-| TBA  | TBA     | TBA   |
-| TBA  | TBA     | TBA   |
-| TBA  | TBA     | TBA   |
-| TBA  | TBA     | TBA   |
-| TBA  | TBA     | TBA   |
-| TBA  | TBA     | TBA   |
-| TBA  | TBA     | TBA   |
-| TBA  | TBA     | TBA   |
-| TBA  | TBA     | TBA   |
-| TBA  | TBA     | TBA   |
-| TBA  | TBA     | TBA   |
-| TBA  | TBA     | TBA   |
-| TBA  | TBA     | TBA   |
+| Date       | Speaker                      | Title                                                                                                           |
+|------------|------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| 03.10.2024 | İlker İnam                  | Divisibility, Greatest common divisor, Prime numbers                                                           |
+| 10.10.2024 | Zeynep Demirkol Özkaya      | The fundamental theorem of arithmetic, The series of reciprocals of the primes, The Euclidean algorithm, The greatest common divisor of more than two numbers |
+| 17.10.2024 | Zekiye Pınar Cihan          | The Mobius function μ(n), The Euler totient function φ(n), A relation connecting μ(n) and φ(n), A product formula for φ(n) |
+| 24.10.2024 | İlker İnam                  | The Dirichlet product of arithmetical functions, Dirichlet inverses and the Mobius inversion formula, The Mangoldt function Λ(n), Multiplicative functions |
+| 31.10.2024 | Mine Ateş                   | Multiplicative functions and Dirichlet multiplication, The inverse of a completely multiplicative function, Liouville's function λ(n), The divisor functions σ_z(n), Generalized convolutions, Formal power series |
+| 07.11.2024 | Zekiye Pınar Cihan          | The Bell series of an arithmetical function, Bell series and Dirichlet multiplication, Derivatives of arithmetical functions, The Selberg identity |
+| 14.11.2024 | Şevval Dündar               | The big oh notation, Asymptotic equality of functions, Euler's summation formula, Some elementary asymptotic formulas |
+| 21.11.2024 | Zeynep Demirkol Özkaya      | The average order of d(n), The average order of the divisor functions σ_z(n), The average order of φ(n), An application to the distribution of lattice points visible from the origin |
+| 28.11.2024 | Mine Ateş                   | The average order of μ(n) and of Λ(n), The partial sums of a Dirichlet product, Applications to μ(n) and Λ(n), Another identity for the partial sums of a Dirichlet product |
+| TBA        | TBA                          | TBA                                                                                                            |
+| TBA        | TBA                          | TBA                                                                                                            |
+| TBA        | TBA                          | TBA                                                                                                            |
+| TBA        | TBA                          | TBA                                                                                                            |
+
 
 
 <details>
