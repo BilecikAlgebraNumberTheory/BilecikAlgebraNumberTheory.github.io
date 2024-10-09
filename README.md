@@ -321,7 +321,27 @@ This academic year, we will use book Apostol, T. M. (2013). Introduction to anal
 
 
 ---
- <p style="text-align: center;">                                            Edited by X                                      </p>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+**Edited by X**
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+---
+
 
 
 
