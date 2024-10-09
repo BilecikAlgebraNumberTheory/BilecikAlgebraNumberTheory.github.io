@@ -322,9 +322,8 @@ This academic year, we will use book Apostol, T. M. (2013). Introduction to anal
 
 ---
 
-<p align="center">Edited by X</p>
+<p align="center">Edited by Goca Patron</p>
 
----
 
 
 
