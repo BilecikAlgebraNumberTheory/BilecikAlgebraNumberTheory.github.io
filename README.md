@@ -324,7 +324,7 @@ This academic year, we will use book Apostol, T. M. (2013). Introduction to anal
 
 ---
 
-<p>Edited by X</p>
+<p style="margin: 0;">Edited by X</p>
 
 </div>
 
