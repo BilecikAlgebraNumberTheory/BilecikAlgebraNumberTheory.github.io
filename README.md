@@ -320,13 +320,17 @@ This academic year, we will use book Apostol, T. M. (2013). Introduction to anal
 | Murat Özyurt             |
 
 
-<div style="text-align: center;">
+<style>
+.center {
+    text-align: center;
+    margin-top: 20px;
+}
+</style>
 
 ---
 
-<p style="margin: 0;">Edited by X</p>
+<div class="center">Edited by X</div>
 
-</div>
 
 
 
