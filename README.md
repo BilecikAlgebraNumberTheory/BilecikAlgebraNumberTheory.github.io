@@ -29,17 +29,17 @@ This academic year, we will use book Apostol, T. M. (2013). Introduction to anal
 | 28.11.2024 | Mine Ateş                   | The average order of μ(n) and of Λ(n), The partial sums of a Dirichlet product, Applications to μ(n) and Λ(n), Another identity for the partial sums of a Dirichlet product |
 | 05.12.2024        | Sashadhar Dutta                         |  Chebyshev's functions θ(x) and ψ(x), Relations connecting θ(x) and π(n), Some equivalent forms of the prime number theorem   |
 | 12.12.2024       | İlker İnam                            |Some equivalent forms of the prime number theorem. Inequalities for π(n) and p_n. Shapiro's Tauberian theorem. Applications of Shapiro's theorem. An asymptotic formula for the partial sum ∑ 1/p. The partial sums of the Möbius function. A brief sketch of an elementary proof of the prime number theorem. Selberg's asymptotic formula.|
-| 19.12.2024         | Zeynep Demirkol Özkaya                           | TBA                                                                                                            |
-| 26.12.2024         | Mine Ateş                          | TBA                                                                                                            |
-| 02.01.2025  | Zekiye Pınar Cihan  | TBA |
-| 09.01.2025  | Şevval Dündar | TBA |
-| 16.01.2025  | Murat Özyurt | TBA |
+| 19.12.2024         | Zeynep Demirkol Özkaya                           |Definition and basic properties of congruences. Residue classes and complete residue systems. Linear congruences. Reduced residue systems and the Euler-Fermat theorem |
+| 26.12.2024         | Mine Ateş                          |Polynomial congruences modulo p. Lagrange's theorem. Applications of Lagrange's theorem. Simultaneous linear congruences. The Chinese remainder theorem. Applications of the Chinese remainder theorem. Polynomial congruences with prime power moduli|
+| 02.01.2025  | Zekiye Pınar Cihan  |The principle of cross-classification. A decomposition property of reduced residue systems |
+| 09.01.2025  | Şevval Dündar |Examples of groups and subgroups. Elementary properties of groups. Construction of subgroups. Characters of finite abelian groups|
+| 16.01.2025  | Murat Özyurt | The character group. The orthogonality relations for characters. Dirichlet characters. Sums involving Dirichlet characters. The nonvanishing of L(1, x) for real nonprincipal x|
 | 23.01.2025  | BANT Team | Winter Break |
 | 30.01.2025  | BANT Team | Winter Break  |
 | 07.02.2025  | BANT Team | Winter Break  |
-| 13.02.2025 | İlker İnam   | TBA |
-| 20.02.2025 | Zeynep Demirkol Özkaya  | TBA |
-| 27.02.2025 | Mine Ateş | TBA |
+| 13.02.2025 | İlker İnam   | Chapter 7, whole|
+| 20.02.2025 | Zeynep Demirkol Özkaya  |Functions periodic modulo k. Existence of finite Fourier series for periodic arithmetical functions. Ramanujan's sum and generalizations. Multiplicative properties of the sums sk(n)|
+| 27.02.2025 | Mine Ateş |Gauss sums associated with Dirichlet characters. Dirichlet characters with nonvanishing Gauss sums. Induced moduli and primitive characters|
 | TBA | TBA | TBA |
 | TBA | TBA | TBA |
 | TBA | TBA | TBA |
