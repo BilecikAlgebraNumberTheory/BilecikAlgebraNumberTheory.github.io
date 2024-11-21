@@ -27,11 +27,22 @@ This academic year, we will use book Apostol, T. M. (2013). Introduction to anal
 | 14.11.2024 | Şevval Dündar               | The big oh notation, Asymptotic equality of functions, Euler's summation formula, Some elementary asymptotic formulas |
 | 21.11.2024 | Zeynep Demirkol Özkaya      | The average order of d(n), The average order of the divisor functions σ_z(n), The average order of φ(n), An application to the distribution of lattice points visible from the origin |
 | 28.11.2024 | Mine Ateş                   | The average order of μ(n) and of Λ(n), The partial sums of a Dirichlet product, Applications to μ(n) and Λ(n), Another identity for the partial sums of a Dirichlet product |
-| 05.12.2014        | Sashadhar Dutta                         |  Chebyshev's functions θ(x) and ψ(x), Relations connecting θ(x) and π(n), Some equivalent forms of the prime number theorem   |
-| TBA        | TBA                          | TBA                                                                                                            |
-| TBA        | TBA                          | TBA                                                                                                            |
-| TBA        | TBA                          | TBA                                                                                                            |
-
+| 05.12.2024        | Sashadhar Dutta                         |  Chebyshev's functions θ(x) and ψ(x), Relations connecting θ(x) and π(n), Some equivalent forms of the prime number theorem   |
+| 12.12.2024       | İlker İnam                            | TBA                                                                                                            |
+| 19.12.2024         | Zeynep Demirkol Özkaya                           | TBA                                                                                                            |
+| 26.12.2024         | Mine Ateş                          | TBA                                                                                                            |
+| 02.01.2025  | Zekiye Pınar Cihan  | TBA |
+| 09.01.2025  | Şevval Dündar | TBA |
+| 16.01.2025  | Murat Özyurt | TBA |
+| 23.01.2025  | BANT Team | Winter Break |
+| 30.01.2025  | BANT Team | Winter Break  |
+| 07.02.2025  | BANT Team | Winter Break  |
+| 13.02.2025 | İlker İnam   | TBA |
+| 20.02.2025 | Zeynep Demirkol Özkaya  | TBA |
+| 27.02.2025 | Mine Ateş | TBA |
+| TBA | TBA | TBA |
+| TBA | TBA | TBA |
+| TBA | TBA | TBA |
 
 
 <details>
