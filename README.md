@@ -245,8 +245,8 @@ This academic year, we will use book Apostol, T. M. (2013). Introduction to anal
 | 25/02/2025 | TBA     | TBA   | TBA         | TBA   | TBA      |
 | 25/03/2025 | Özlem İmamoğlu     | ETH Zurich  | TBA         | TBA   | TBA      |
 | 22/04/2025 | TBA     | TBA   | TBA         | TBA   | TBA      |
-| 27/05/2025 | TBA     | TBA   | TBA         | TBA   | TBA      |
-| 10/06/2025 | TBA     | TBA   | TBA         | TBA   | TBA      |
+| 27/05/2025 | John Voight     | University of Sydney  | TBA         | TBA   | TBA      |
+| 10/06/2025 | Ian Kiming     | University of Copenhagen  | TBA         | TBA   | TBA      |
 
 
 <details>
