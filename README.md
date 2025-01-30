@@ -243,10 +243,10 @@ This academic year, we will use book Apostol, T. M. (2013). Introduction to anal
 | 17/12/2024   | Istanbul 16:00, Tokyo 22:00, London 13:00 , Berlin 14:00   |Ade Irma Suriajaya | Kyushu University  | Pair correlation of zeros of the Riemann zeta-function, zero density and simple zeros  |  Assuming the Riemann Hypothesis (RH), Montgomery (1973) proved a theorem concerning the pair correlation of nontrivial zeros of the Riemann zeta-function. One consequence of this theorem was that, under RH, at least 2/3 of the zeros are simple. We show that this theorem of Montgomery holds unconditionally. In an earlier paper, as an application, under a much weaker hypothesis than RH that all the zeros lie within a narrow vertical box centered on the critical line, we showed that at least 61.7% of zeros of the Riemann zeta-function are simple. We can further weaken the hypothesis using a density hypothesis. Recently we were able to improve a little bit on this proportion, and furthermore found a connection to finding proportion of zeros on the critical line. Inspired by a recent preprint of J. Maynard and K. Pratt, we can additionally weaken our assumption by copying the box finitely many times. This is joint work with Siegfred Alan C. Baluyot, Daniel Alan Goldston, and Caroline L. Turnage-Butterbaugh. |
 | 14/01/2025  | Istanbul 16:00, London 13:00, Berlin 14:00, Tokyo 22:00     | Cem Yalçın Yıldırım   |   Boğaziçi University  | Some analogues of pair correlation of zeta zeros   | An alternative way to carry out Montgomery's original calculation of the pair correlation of zeta zeros allows us to obtain some other analogous results. In particular, we can approach the problems of correlating zeta zeros and relative maxima on the critical line, and the pair correlation of these maxima.     |
 | 25/02/2025 | TBA     | TBA   | TBA         | TBA   | TBA      |
-| 25/03/2025 | Özlem İmamoğlu     | ETH Zurich  | TBA         | TBA   | TBA      |
+| 25/03/2025 | TBA   | Özlem İmamoğlu     | ETH Zurich  | TBA         | TBA   | 
 | 22/04/2025 | TBA     | TBA   | TBA         | TBA   | TBA      |
-| 27/05/2025 | John Voight     | University of Sydney  | TBA         | TBA   | TBA      |
-| 10/06/2025 | Ian Kiming     | University of Copenhagen  | TBA         | TBA   | TBA      |
+| 27/05/2025 |TBA   |  John Voight     | University of Sydney  | TBA         | TBA   | 
+| 10/06/2025 |TBA   |  Ian Kiming     | University of Copenhagen  | TBA         | TBA   | 
 
 
 <details>
