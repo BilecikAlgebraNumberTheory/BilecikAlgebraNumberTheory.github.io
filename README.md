@@ -37,7 +37,7 @@ This academic year, we will use book Apostol, T. M. (2013). Introduction to anal
 | 23.01.2025   | BANT Team            | Winter Break                                                                                                                          |
 | 30.01.2025   | BANT Team            | Winter Break                                                                                                                          |
 | 07.02.2025   | BANT Team            | Winter Break                                                                                                                          |
-| 13.02.2025   | Şevval Dündar        | Examples of groups and subgroups. Elementary properties of groups. Construction of subgroups. Characters of finite abelian groups      |
+| 13.02.2025   | Sashadhar Dutta         | Examples of groups and subgroups. Elementary properties of groups. Construction of subgroups. Characters of finite abelian groups      |
 | 20.02.2025  | Murat Özyurt | The character group. The orthogonality relations for characters. Dirichlet characters. Sums involving Dirichlet characters. The nonvanishing of L(1, x) for real nonprincipal x|
 | 27.02.2025 | İlker İnam   | Chapter 7, whole|
 | 05.03.2025 | Zeynep Demirkol Özkaya  |Functions periodic modulo k. Existence of finite Fourier series for periodic arithmetical functions. Ramanujan's sum and generalizations. Multiplicative properties of the sums sk(n)|
