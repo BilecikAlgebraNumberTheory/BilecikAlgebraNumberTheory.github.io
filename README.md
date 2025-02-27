@@ -52,7 +52,7 @@ This academic year, we will use the book Apostol, T. M. (1998). Introduction to 
 | 01.05.2025 | Bant Team                 | Holiday |
 | 08.05.2025 | Mine Ateş                 | Dirichlet series with nonnegative coefficients, Dirichlet series expressed as exponentials of Dirichlet series, Mean value formulas for Dirichlet series, An integral formula for the coefficients of a Dirichlet series, An integral formula for the partial sums of a Dirichlet series, Exercises for Chapter 11 |
 | 15.05.2025 | Sashadhar Dutta           | Properties of the gamma function, Integral representation for the Hurwitz zeta function, A contour integral representation for the Hurwitz zeta function, The analytic continuation of the Hurwitz zeta function, Analytic continuation of ζ(s) and L(s, χ), Hurwitz’s formula for ζ(s, a), The functional equation for the Riemann zeta function |
-| 22.05.2025 | Zekiye Pınar Cihan        | A functional equation for the Hurwitz zeta function, The functional equation for L-functions, Evaluation of ζ(−n, a), Properties of Bernoulli numbers and Bernoulli polynomials, Formulas for L(0, χ), Approximation of ζ(s, a) by finite sums, Inequalities for |ζ(s, a)|, Inequalities for |ζ(s)| and |L(s, χ)|, Exercises for Chapter 12 |
+| 22.05.2025 | Zekiye Pınar Cihan     | A functional equation for the Hurwitz zeta function, The functional equation for L-functions, Evaluation of ζ(−n, a), Properties of Bernoulli numbers and Bernoulli polynomials, Formulas for L(0, χ), Approximation of ζ(s, a) by finite sums, Inequalities for \|ζ(s, a)\|, Inequalities for \|ζ(s)\| and \|L(s, χ)\|, Exercises for Chapter 12 |
 | 29.05.2025 | Ömer Avcı                 | Chapter 13 whole |
 
 
