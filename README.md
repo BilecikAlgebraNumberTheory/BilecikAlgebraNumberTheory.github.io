@@ -14,7 +14,7 @@ BANT Team
 ## *BANT Working Group Seminars*
 
   <p>In these seminars, we examine Algebra and number theory topics, and our goals are to increase our mathematical maturity and say hello to new bridges in mathematics.</p>
-This academic year, we will use book Apostol, T. M. (2013). Introduction to analytic number theory. Springer Science & Business Media. in these seminars
+This academic year, we will use the book Apostol, T. M. (2013). Introduction to analytic number theory. Springer Science & Business Media. in these seminars
 
 | Date       | Speaker                      | Title                                                                                                           |
 |------------|------------------------------|-----------------------------------------------------------------------------------------------------------------|
