@@ -42,17 +42,7 @@ This academic year, we will use the book Apostol, T. M. (2013). Introduction to 
 | 27.02.2025 | İlker İnam   | Chapter 7, whole|
 | 05.03.2025 | Zeynep Demirkol Özkaya  |Functions periodic modulo k. Existence of finite Fourier series for periodic arithmetical functions. Ramanujan's sum and generalizations. Multiplicative properties of the sums sk(n)|
 | 13.03.2025 | Mine Ateş |Gauss sums associated with Dirichlet characters. Dirichlet characters with nonvanishing Gauss sums. Induced moduli and primitive characters|
-| 20.03.2025 | Sashadhar Dutta   | Further properties of induced moduli, The conductor of a character, Primitive characters and separable Gauss sums, The finite Fourier series of the Dirichlet characters, Pólya’s inequality for the partial sums of primitive characters, Exercises for Chapter 8 |
-| 27.03.2025 | Ömer Avcı | Quadratic residues, Legendre’s symbol and its properties, Evaluation of (-1\|p) and (2\|p), Gauss' lemma, The quadratic reciprocity law. |
-| 03.04.2025 | Zekiye Pınar Cihan     | Applications of the reciprocity law, The Jacobi symbol, Applications to Diophantine equations, Gauss sums and the quadratic reciprocity law, The reciprocity law for quadratic Gauss sums, Another proof of the quadratic reciprocity law, Exercises for Chapter 9.|
-| 10.04.2025 | Zeynep Demirkol Özkaya   |The exponent of a number mod m, Primitive roots, Primitive roots and reduced residue systems, The nonexistence of primitive roots mod 2^α for α ≥ 3, The existence of primitive roots mod p for odd primes p, Primitive roots and quadratic residues, The existence of primitive roots mod p^x, The existence of primitive roots mod 2p^x. |
-| 17.04.2025 | Murat Özyurt | The nonexistence of primitive roots in the remaining cases, The number of primitive roots mod m, The index calculus, Primitive roots and Dirichlet characters, Real-valued Dirichlet characters mod p^x, Primitive Dirichlet characters mod p^x, Exercises for Chapter 10.|
-| 24.04.2025 | İlker İnam | The half-plane of absolute convergence of a Dirichlet series, The function defined by a Dirichlet series, Multiplication of Dirichlet series, Euler products, The half-plane of convergence of a Dirichlet series, Analytic properties of Dirichlet series. |
-| 01.05.2025 | Bant Team | Holiday  |
-| 08.05.2025 | Mine Ateş  | Dirichlet series with nonnegative coefficients, Dirichlet series expressed as exponentials of Dirichlet series, Mean value formulas for Dirichlet series, An integral formula for the coefficients of a Dirichlet series, An integral formula for the partial sums of a Dirichlet series, Exercises for Chapter 11. |
-| 15.05.2025 | Sashadhar Dutta   |  Properties of the gamma function, Integral representation for the Hurwitz zeta function, A contour integral representation for the Hurwitz zeta function, The analytic continuation of the Hurwitz zeta function, Analytic continuation of ζ(s) and L(s, χ), Hurwitz’s formula for ζ(s, a), The functional equation for the Riemann zeta function. |
-| 22.05.2025 | Zekiye Pınar Cihan     | A functional equation for the Hurwitz zeta function, The functional equation for L-functions, Evaluation of ζ(−n, a), Properties of Bernoulli numbers and Bernoulli polynomials, Formulas for L(0, χ), Approximation of ζ(s, a) by finite sums, Inequalities for |ζ(s, a)|, Inequalities for |ζ(s)| and |L(s, χ)|, Exercises for Chapter 12. |
-| 29.05.2025 | Ömer Avcı   | Chapter 13 whole  |
+
 
 <details>
   <summary>2023–2024 Academic Year BANT Working Group Seminars</summary>
