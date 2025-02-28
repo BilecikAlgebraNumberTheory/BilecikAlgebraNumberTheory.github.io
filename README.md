@@ -244,7 +244,7 @@ This academic year, we will use the book Apostol, T. M. (1998). Introduction to 
  
 ## *General Seminars*
 
-  <p>Carl Friedrich Gauss's statement "Mathematics is the queen of sciences, the queen of Mathematics is Number Theory". To participate in the seminar please kindly fill the form: <a href=" There was an error committing your changes: BilecikAlgebraNumberTheory has committed since you started editing. See what changed ">Seminar Form</a></p>
+  <p>Carl Friedrich Gauss's statement "Mathematics is the queen of sciences, the queen of Mathematics is Number Theory". To participate in the seminar please kindly fill the form: <a href=" https://forms.gle/UMVC9tvyXigM3Bpm8 ">Seminar Form</a></p>
 
 
 | Date | Time | Speaker | Affiliation | Title | Abstract |
