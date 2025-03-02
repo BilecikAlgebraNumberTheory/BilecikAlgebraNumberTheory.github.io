@@ -14,46 +14,49 @@ BANT Team
 ## *BANT Working Group Seminars*
 
   <p>In these seminars, we examine Algebra and number theory topics, and our goals are to increase our mathematical maturity and say hello to new bridges in mathematics.</p>
-This academic year, we will use the book Apostol, T. M. (1998). Introduction to analytic number theory. Springer Science & Business Media. in these seminars
+<details>
+  <summary>2024–2025 Academic Year BANT Working Group Seminars</summary>
 
+  <p> This academic year, we will use the book Apostol, T. M. (1998). <i>Introduction to Analytic Number Theory</i>. Springer Science & Business Media in these seminars.</p>
 
-| Date       | Speaker                  | Title |
-|------------|--------------------------|--------|
-| 03.10.2024 | İlker İnam                | Divisibility, Greatest common divisor, Prime numbers |
-| 10.10.2024 | Zeynep Demirkol Özkaya    | The fundamental theorem of arithmetic, The series of reciprocals of the primes, The Euclidean algorithm, The greatest common divisor of more than two numbers |
-| 17.10.2024 | Zekiye Pınar Cihan        | The Mobius function μ(n), The Euler totient function φ(n), A relation connecting μ(n) and φ(n), A product formula for φ(n) |
-| 24.10.2024 | İlker İnam                | The Dirichlet product of arithmetical functions, Dirichlet inverses and the Mobius inversion formula, The Mangoldt function Λ(n), Multiplicative functions |
-| 31.10.2024 | Mine Ateş                 | Multiplicative functions and Dirichlet multiplication, The inverse of a completely multiplicative function, Liouville's function λ(n), The divisor functions σ_z(n), Generalized convolutions, Formal power series |
-| 07.11.2024 | Zekiye Pınar Cihan        | The Bell series of an arithmetical function, Bell series and Dirichlet multiplication, Derivatives of arithmetical functions, The Selberg identity |
-| 14.11.2024 | Şevval Dündar             | The big oh notation, Asymptotic equality of functions, Euler's summation formula, Some elementary asymptotic formulas |
-| 21.11.2024 | Zeynep Demirkol Özkaya    | The average order of d(n), The average order of the divisor functions σ_z(n), The average order of φ(n), An application to the distribution of lattice points visible from the origin |
-| 28.11.2024 | Mine Ateş                 | The average order of μ(n) and of Λ(n), The partial sums of a Dirichlet product, Applications to μ(n) and Λ(n), Another identity for the partial sums of a Dirichlet product |
-| 05.12.2024 | Sashadhar Dutta           | Chebyshev's functions θ(x) and ψ(x), Relations connecting θ(x) and π(n), Some equivalent forms of the prime number theorem |
-| 12.12.2024 | İlker İnam                | Some equivalent forms of the prime number theorem, Inequalities for π(n) and p_n, Shapiro's Tauberian theorem, Applications of Shapiro's theorem, An asymptotic formula for the partial sum ∑ 1/p, The partial sums of the Möbius function, A brief sketch of an elementary proof of the prime number theorem, Selberg's asymptotic formula |
-| 19.12.2024 | Zeynep Demirkol Özkaya    | Definition and basic properties of congruences, Residue classes and complete residue systems, Linear congruences, Reduced residue systems and the Euler-Fermat theorem |
-| 26.12.2024 | BANT Team                 | Time out |
-| 02.01.2025 | BANT Team                 | Holiday |
-| 09.01.2025 | Mine Ateş                 | Polynomial congruences modulo p, Lagrange's theorem, Applications of Lagrange's theorem, Simultaneous linear congruences, The Chinese remainder theorem, Applications of the Chinese remainder theorem, Polynomial congruences with prime power moduli |
-| 16.01.2025 | Zekiye Pınar Cihan        | The principle of cross-classification, A decomposition property of reduced residue systems |
-| 23.01.2025 | BANT Team                 | Winter Break |
-| 30.01.2025 | BANT Team                 | Winter Break |
-| 07.02.2025 | BANT Team                 | Winter Break |
-| 13.02.2025 | Sashadhar Dutta           | Examples of groups and subgroups, Elementary properties of groups, Construction of subgroups, Characters of finite abelian groups |
-| 20.02.2025 | Murat Özyurt              | The character group, The orthogonality relations for characters, Dirichlet characters, Sums involving Dirichlet characters, The nonvanishing of L(1, x) for real nonprincipal x |
-| 27.02.2025 | İlker İnam                | Chapter 7, whole |
-| 05.03.2025 | Zeynep Demirkol Özkaya    | Functions periodic modulo k, Existence of finite Fourier series for periodic arithmetical functions, Ramanujan's sum and generalizations, Multiplicative properties of the sums sk(n) |
-| 13.03.2025 | Mine Ateş                 | Gauss sums associated with Dirichlet characters, Dirichlet characters with nonvanishing Gauss sums, Induced moduli and primitive characters |
-| 20.03.2025 | Sashadhar Dutta           | Further properties of induced moduli, The conductor of a character, Primitive characters and separable Gauss sums, The finite Fourier series of the Dirichlet characters, Pólya’s inequality for the partial sums of primitive characters, Exercises for Chapter 8 |
-| 27.03.2025 | Ömer Avcı                 | Quadratic residues, Legendre’s symbol and its properties, Evaluation of (-1\|p) and (2\|p), Gauss' lemma, The quadratic reciprocity law |
-| 03.04.2025 | Zekiye Pınar Cihan        | Applications of the reciprocity law, The Jacobi symbol, Applications to Diophantine equations, Gauss sums and the quadratic reciprocity law, The reciprocity law for quadratic Gauss sums, Another proof of the quadratic reciprocity law, Exercises for Chapter 9 |
-| 10.04.2025 | Zeynep Demirkol Özkaya    | The exponent of a number mod m, Primitive roots, Primitive roots and reduced residue systems, The nonexistence of primitive roots mod 2^α for α ≥ 3, The existence of primitive roots mod p for odd primes p, Primitive roots and quadratic residues, The existence of primitive roots mod p^x, The existence of primitive roots mod 2p^x |
-| 17.04.2025 | Murat Özyurt              | The nonexistence of primitive roots in the remaining cases, The number of primitive roots mod m, The index calculus, Primitive roots and Dirichlet characters, Real-valued Dirichlet characters mod p^x, Primitive Dirichlet characters mod p^x, Exercises for Chapter 10 |
-| 24.04.2025 | İlker İnam                | The half-plane of absolute convergence of a Dirichlet series, The function defined by a Dirichlet series, Multiplication of Dirichlet series, Euler products, The half-plane of convergence of a Dirichlet series, Analytic properties of Dirichlet series |
-| 01.05.2025 | Bant Team                 | Holiday |
-| 08.05.2025 | Mine Ateş                 | Dirichlet series with nonnegative coefficients, Dirichlet series expressed as exponentials of Dirichlet series, Mean value formulas for Dirichlet series, An integral formula for the coefficients of a Dirichlet series, An integral formula for the partial sums of a Dirichlet series, Exercises for Chapter 11 |
-| 15.05.2025 | Sashadhar Dutta           | Properties of the gamma function, Integral representation for the Hurwitz zeta function, A contour integral representation for the Hurwitz zeta function, The analytic continuation of the Hurwitz zeta function, Analytic continuation of ζ(s) and L(s, χ), Hurwitz’s formula for ζ(s, a), The functional equation for the Riemann zeta function |
-| 22.05.2025 | Zekiye Pınar Cihan     | A functional equation for the Hurwitz zeta function, The functional equation for L-functions, Evaluation of ζ(−n, a), Properties of Bernoulli numbers and Bernoulli polynomials, Formulas for L(0, χ), Approximation of ζ(s, a) by finite sums, Inequalities for \|ζ(s, a)\|, Inequalities for \|ζ(s)\| and \|L(s, χ)\|, Exercises for Chapter 12 |
-| 29.05.2025 | Ömer Avcı                 | Chapter 13 whole |
+  <table>
+    <thead>
+      <tr>
+        <th>Date</th>
+        <th>Speaker</th>
+        <th>Title</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>03.10.2024</td><td>İlker İnam</td><td>Divisibility, Greatest common divisor, Prime numbers</td></tr>
+      <tr><td>10.10.2024</td><td>Zeynep Demirkol Özkaya</td><td>The fundamental theorem of arithmetic, The series of reciprocals of the primes, The Euclidean algorithm, The greatest common divisor of more than two numbers</td></tr>
+      <tr><td>17.10.2024</td><td>Zekiye Pınar Cihan</td><td>The Mobius function μ(n), The Euler totient function φ(n), A relation connecting μ(n) and φ(n), A product formula for φ(n)</td></tr>
+      <tr><td>24.10.2024</td><td>İlker İnam</td><td>The Dirichlet product of arithmetical functions, Dirichlet inverses and the Mobius inversion formula, The Mangoldt function Λ(n), Multiplicative functions</td></tr>
+      <tr><td>31.10.2024</td><td>Mine Ateş</td><td>Multiplicative functions and Dirichlet multiplication, The inverse of a completely multiplicative function, Liouville's function λ(n), The divisor functions σ_z(n), Generalized convolutions, Formal power series</td></tr>
+      <tr><td>07.11.2024</td><td>Zekiye Pınar Cihan</td><td>The Bell series of an arithmetical function, Bell series and Dirichlet multiplication, Derivatives of arithmetical functions, The Selberg identity</td></tr>
+      <tr><td>14.11.2024</td><td>Şevval Dündar</td><td>The big oh notation, Asymptotic equality of functions, Euler's summation formula, Some elementary asymptotic formulas</td></tr>
+      <tr><td>21.11.2024</td><td>Zeynep Demirkol Özkaya</td><td>The average order of d(n), The average order of the divisor functions σ_z(n), The average order of φ(n), An application to the distribution of lattice points visible from the origin</td></tr>
+      <tr><td>28.11.2024</td><td>Mine Ateş</td><td>The average order of μ(n) and of Λ(n), The partial sums of a Dirichlet product, Applications to μ(n) and Λ(n), Another identity for the partial sums of a Dirichlet product</td></tr>
+      <tr><td>05.12.2024</td><td>Sashadhar Dutta</td><td>Chebyshev's functions θ(x) and ψ(x), Relations connecting θ(x) and π(n), Some equivalent forms of the prime number theorem</td></tr>
+      <tr><td>12.12.2024</td><td>İlker İnam</td><td>Some equivalent forms of the prime number theorem, Inequalities for π(n) and p_n, Shapiro's Tauberian theorem, Applications of Shapiro's theorem, An asymptotic formula for the partial sum ∑ 1/p, The partial sums of the Möbius function, A brief sketch of an elementary proof of the prime number theorem, Selberg's asymptotic formula</td></tr>
+      <tr><td>19.12.2024</td><td>Zeynep Demirkol Özkaya</td><td>Definition and basic properties of congruences, Residue classes and complete residue systems, Linear congruences, Reduced residue systems and the Euler-Fermat theorem</td></tr>
+      <tr><td>26.12.2024</td><td>BANT Team</td><td>Time Out</td></tr>
+      <tr><td>02.01.2025</td><td>BANT Team</td><td>Holiday</td></tr>
+      <tr><td>09.01.2025</td><td>Mine Ateş</td><td>Polynomial congruences modulo p, Lagrange's theorem, Applications of Lagrange's theorem, Simultaneous linear congruences, The Chinese remainder theorem, Applications of the Chinese remainder theorem, Polynomial congruences with prime power moduli</td></tr>
+      <tr><td>16.01.2025</td><td>Zekiye Pınar Cihan</td><td>The principle of cross-classification, A decomposition property of reduced residue systems</td></tr>
+      <tr><td>23.01.2025</td><td>BANT Team</td><td>Winter Break</td></tr>
+      <tr><td>30.01.2025</td><td>BANT Team</td><td>Winter Break</td></tr>
+      <tr><td>07.02.2025</td><td>BANT Team</td><td>Winter Break</td></tr>
+      <tr><td>13.02.2025</td><td>Sashadhar Dutta</td><td>Examples of groups and subgroups, Elementary properties of groups, Construction of subgroups, Characters of finite abelian groups</td></tr>
+      <tr><td>20.02.2025</td><td>Murat Özyurt</td><td>The character group, The orthogonality relations for characters, Dirichlet characters, Sums involving Dirichlet characters, The nonvanishing of L(1, x) for real nonprincipal x</td></tr>
+      <tr><td>27.02.2025</td><td>İlker İnam</td><td>Chapter 7, whole</td></tr>
+      <tr><td>05.03.2025</td><td>Zeynep Demirkol Özkaya</td><td>Functions periodic modulo k, Existence of finite Fourier series for periodic arithmetical functions, Ramanujan's sum and generalizations, Multiplicative properties of the sums sk(n)</td></tr>
+      <tr><td>22.05.2025</td><td>Zekiye Pınar Cihan</td><td>A functional equation for the Hurwitz zeta function, The functional equation for L-functions, Evaluation of ζ(−n, a), Properties of Bernoulli numbers and Bernoulli polynomials, Formulas for L(0, χ), Approximation of ζ(s, a) by finite sums, Inequalities for |ζ(s, a)|, Inequalities for |ζ(s)| and |L(s, χ)|, Exercises for Chapter 12</td></tr>
+      <tr><td>29.05.2025</td><td>Ömer Avcı</td><td>Chapter 13 whole</td></tr>
+    </tbody>
+  </table>
+</details>
+
 
 
 
