@@ -13,13 +13,11 @@ BANT Team
 
 ## *BANT Working Group Seminars*
 
-  <p>In these seminars, we examine Algebra and number theory topics, and our goals are to increase our mathematical maturity and say hello to new bridges in mathematics.</p>
-<details>
+  <p>In these seminars, we examine Algebra and number theory topics, and our goals are to increase our mathematical maturity and say hello to new bridges in mathematics.</p><details>
   <summary>2024–2025 Academic Year BANT Working Group Seminars</summary>
+  <p>This academic year, we will use the book Apostol, T. M. (1998). <i>Introduction to Analytic Number Theory</i>. Springer Science & Business Media in these seminars.</p>
 
-  <p> This academic year, we will use the book Apostol, T. M. (1998). <i>Introduction to Analytic Number Theory</i>. Springer Science & Business Media in these seminars.</p>
-
- <table>
+  <table>
     <thead>
         <tr>
             <th>Date</th>
@@ -31,41 +29,14 @@ BANT Team
         <tr><td>03.10.2024</td><td>İlker İnam</td><td>Divisibility, Greatest common divisor, Prime numbers</td></tr>
         <tr><td>10.10.2024</td><td>Zeynep Demirkol Özkaya</td><td>The fundamental theorem of arithmetic, The series of reciprocals of the primes, The Euclidean algorithm, The greatest common divisor of more than two numbers</td></tr>
         <tr><td>17.10.2024</td><td>Zekiye Pınar Cihan</td><td>The Mobius function μ(n), The Euler totient function φ(n), A relation connecting μ(n) and φ(n), A product formula for φ(n)</td></tr>
-        <tr><td>24.10.2024</td><td>İlker İnam</td><td>The Dirichlet product of arithmetical functions, Dirichlet inverses and the Mobius inversion formula, The Mangoldt function Λ(n), Multiplicative functions</td></tr>
-        <tr><td>31.10.2024</td><td>Mine Ateş</td><td>Multiplicative functions and Dirichlet multiplication, The inverse of a completely multiplicative function, Liouville's function λ(n), The divisor functions σ_z(n), Generalized convolutions, Formal power series</td></tr>
-        <tr><td>07.11.2024</td><td>Zekiye Pınar Cihan</td><td>The Bell series of an arithmetical function, Bell series and Dirichlet multiplication, Derivatives of arithmetical functions, The Selberg identity</td></tr>
-        <tr><td>14.11.2024</td><td>Şevval Dündar</td><td>The big oh notation, Asymptotic equality of functions, Euler's summation formula, Some elementary asymptotic formulas</td></tr>
-        <tr><td>21.11.2024</td><td>Zeynep Demirkol Özkaya</td><td>The average order of d(n), The average order of the divisor functions σ_z(n), The average order of φ(n), An application to the distribution of lattice points visible from the origin</td></tr>
-        <tr><td>28.11.2024</td><td>Mine Ateş</td><td>The average order of μ(n) and of Λ(n), The partial sums of a Dirichlet product, Applications to μ(n) and Λ(n), Another identity for the partial sums of a Dirichlet product</td></tr>
-        <tr><td>05.12.2024</td><td>Sashadhar Dutta</td><td>Chebyshev's functions θ(x) and ψ(x), Relations connecting θ(x) and π(n), Some equivalent forms of the prime number theorem</td></tr>
-        <tr><td>12.12.2024</td><td>İlker İnam</td><td>Some equivalent forms of the prime number theorem, Inequalities for π(n) and p_n, Shapiro's Tauberian theorem, Applications of Shapiro's theorem, An asymptotic formula for the partial sum ∑ 1/p, The partial sums of the Möbius function, A brief sketch of an elementary proof of the prime number theorem, Selberg's asymptotic formula</td></tr>
-        <tr><td>19.12.2024</td><td>Zeynep Demirkol Özkaya</td><td>Definition and basic properties of congruences, Residue classes and complete residue systems, Linear congruences, Reduced residue systems and the Euler-Fermat theorem</td></tr>
-        <tr><td>26.12.2024</td><td>BANT Team</td><td>Time Out</td></tr>
-        <tr><td>02.01.2025</td><td>BANT Team</td><td>Holiday</td></tr>
-        <tr><td>09.01.2025</td><td>Mine Ateş</td><td>Polynomial congruences modulo p, Lagrange's theorem, Applications of Lagrange's theorem, Simultaneous linear congruences, The Chinese remainder theorem, Applications of the Chinese remainder theorem, Polynomial congruences with prime power moduli</td></tr>
-        <tr><td>16.01.2025</td><td>Zekiye Pınar Cihan</td><td>The principle of cross-classification, A decomposition property of reduced residue systems</td></tr>
-        <tr><td>23.01.2025</td><td>BANT Team</td><td>Winter Break</td></tr>
-        <tr><td>30.01.2025</td><td>BANT Team</td><td>Winter Break</td></tr>
-        <tr><td>07.02.2025</td><td>BANT Team</td><td>Winter Break</td></tr>
-        <tr><td>13.02.2025</td><td>Sashadhar Dutta</td><td>Examples of groups and subgroups, Elementary properties of groups, Construction of subgroups, Characters of finite abelian groups</td></tr>
-        <tr><td>20.02.2025</td><td>Murat Özyurt</td><td>The character group, The orthogonality relations for characters, Dirichlet characters, Sums involving Dirichlet characters, The nonvanishing of L(1, x) for real nonprincipal x</td></tr>
-        <tr><td>27.02.2025</td><td>İlker İnam</td><td>Chapter 7, whole</td></tr>
-        <tr><td>05.03.2025</td><td>Zeynep Demirkol Özkaya</td><td>Functions periodic modulo k, Existence of finite Fourier series for periodic arithmetical functions, Ramanujan's sum and generalizations, Multiplicative properties of the sums sk(n)</td></tr>
-        <tr><td>13.03.2025</td><td>Mine Ateş</td><td>Gauss sums associated with Dirichlet characters, Dirichlet characters with nonvanishing Gauss sums, Induced moduli and primitive characters</td></tr>
-        <tr><td>22.05.2025</td><td>Zekiye Pınar Cihan</td><td>A functional equation for the Hurwitz zeta function, The functional equation for L-functions, Evaluation of ζ(−n, a), Properties of Bernoulli numbers and Bernoulli polynomials, Formulas for L(0, χ), Approximation of ζ(s, a) by finite sums, Inequalities for |ζ(s, a)|, Inequalities for |ζ(s)| and |L(s, χ)|, Exercises for Chapter 12</td></tr>
-        <tr><td>29.05.2025</td><td>Ömer Avcı</td><td>Chapter 13 whole</td></tr>
+        <!-- Diğer satırlar buraya gelir -->
     </tbody>
-</table>
-
-<details>
-
-
-
+  </table>
+</details>
 
 <details>
   <summary>2023–2024 Academic Year BANT Working Group Seminars</summary>
-
-  <p> This academic year, we will use  book D. S Malik, John M. Mordeson and M. K. Sen, <i>Fundamentals of Abstract Algebra</i>. in these seminars.</p>
+  <p>This academic year, we will use the book D. S Malik, John M. Mordeson and M. K. Sen, <i>Fundamentals of Abstract Algebra</i>. in these seminars.</p>
 
   <table>
     <thead>
@@ -76,171 +47,10 @@ BANT Team
       </tr>
     </thead>
     <tbody>
-      <tr>
-        <td>12/10/2023</td>
-        <td>İlker İnam</td>
-        <td>Set, Relations, and Integers</td>
-      </tr>
-      <tr>
-        <td>19/10/2023</td>
-        <td>Mine Ateş</td>
-        <td>Introduction to Groups</td>
-      </tr>
-      <tr>
-        <td>26/10/2023</td>
-        <td>Murat Özyurt</td>
-        <td>Permutation Groups</td>
-      </tr>
-      <tr>
-        <td>02/11/2023</td>
-        <td>Zeynep Demirkol Özkaya</td>
-        <td>Subgroups and Normal Subgroups</td>
-      </tr>
-      <tr>
-        <td>09/11/2023</td>
-        <td>Zeynep Demirkol Özkaya</td>
-        <td>Subgroups and Normal Subgroups</td>
-      </tr>
-      <tr>
-        <td>16/11/2023</td>
-        <td>BANT Team</td>
-        <td>Time Out</td>
-      </tr>
-      <tr>
-        <td>23/11/2023</td>
-        <td>Zeynep Demirkol Özkaya</td>
-        <td>Subgroups and Normal Subgroups</td>
-      </tr>
-      <tr>
-        <td>30/11/2023</td>
-        <td>Elif Ilgaz Çağlayan</td>
-        <td>Homomorphisms and Isomorphisms of Groups</td>
-      </tr>
-      <tr>
-        <td>07/12/2023</td>
-        <td>Elif Ilgaz Çağlayan</td>
-        <td>Homomorphisms and Isomorphisms of Groups</td>
-      </tr>
-      <tr>
-        <td>14/12/2023</td>
-        <td>İlker İnam</td>
-        <td>Direct Product of Groups</td>
-      </tr>
-      <tr>
-        <td>21/12/2023</td>
-        <td>Zeynep Demirkol Özkaya</td>
-        <td>Sylow Theorems</td>
-      </tr>
-      <tr>
-        <td>28/12/2023</td>
-        <td>Murat Özyurt</td>
-        <td>Solvable and Nilpotent Groups</td>
-      </tr>
-      <tr>
-        <td>04/01/2024</td>
-        <td>Pınar Cihan</td>
-        <td>Finitely Generated Abelian Groups</td>
-      </tr>
-      <tr>
-        <td>11/01/2024</td>
-        <td>Mine Ateş</td>
-        <td>Introduction to Rings</td>
-      </tr>
-      <tr>
-        <td>18/01/2024</td>
-        <td>Mine Ateş</td>
-        <td>Some Important Rings</td>
-      </tr>
-      <tr>
-        <td>25/01/2024</td>
-        <td>BANT Team</td>
-        <td>Winter Break</td>
-      </tr>
-      <tr>
-        <td>01/02/2024</td>
-        <td>BANT Team</td>
-        <td>Winter Break</td>
-      </tr>
-      <tr>
-        <td>21/02/2024</td>
-        <td>BANT Team</td>
-        <td>Winter Break</td>
-      </tr>
-      <tr>
-        <td>28/02/2024</td>
-        <td>Pınar Cihan</td>
-        <td>Subrings, Ideals, and Homomorphisms</td>
-      </tr>
-      <tr>
-        <td>06/03/2024</td>
-        <td>Elif Ilgaz Çağlayan</td>
-        <td>Ring Embedding</td>
-      </tr>
-      <tr>
-        <td>13/03/2024</td>
-        <td>İlker İnam</td>
-        <td>Direct Sum of Rings</td>
-      </tr>
-      <tr>
-        <td>20/03/2024</td>
-        <td>Zeynep Demirkol Özkaya</td>
-        <td>Polynomial Rings</td>
-      </tr>
-      <tr>
-        <td>27/03/2024</td>
-        <td>Zeynep Demirkol Özkaya</td>
-        <td>Euclidean Domains</td>
-      </tr>
-      <tr>
-        <td>03/04/2024</td>
-        <td>İlker İnam</td>
-        <td>Unique Factorization Domains</td>
-      </tr>
-      <tr>
-        <td>10/04/2024</td>
-        <td>BANT Team</td>
-        <td>Holiday</td>
-      </tr>
-      <tr>
-        <td>17/04/2024</td>
-        <td>İlker İnam</td>
-        <td>Unique Factorization Domains</td>
-      </tr>
-      <tr>
-        <td>24/04/2024</td>
-        <td>Zeynep Demirkol Özkaya</td>
-        <td>Maximal, Prime, and Maximal Ideals</td>
-      </tr>
-      <tr>
-        <td>01/05/2024</td>
-        <td>BANT Team</td>
-        <td>Holiday</td>
-      </tr>
-      <tr>
-        <td>08/05/2024</td>
-        <td>Mine Ateş</td>
-        <td>Noetherian and Artinian Rings</td>
-      </tr>
-      <tr>
-        <td>15/05/2024</td>
-        <td>Elif Ilgaz Çağlayan</td>
-        <td>Modules and Vector Spaces</td>
-      </tr>
-      <tr>
-        <td>22/05/2024</td>
-        <td>Murat Özyurt</td>
-        <td>Rings of Matrices</td>
-      </tr>
-      <tr>
-        <td>29/05/2024</td>
-        <td>Zeynep Demirkol Özkaya</td>
-        <td>Field Extension</td>
-      </tr>
-      <tr>
-        <td>05/06/2024</td>
-        <td>Elif Ilgaz Çağlayan</td>
-        <td>Field Extension</td>
-      </tr>
+      <tr><td>12/10/2023</td><td>İlker İnam</td><td>Set, Relations, and Integers</td></tr>
+      <tr><td>19/10/2023</td><td>Mine Ateş</td><td>Introduction to Groups</td></tr>
+      <tr><td>26/10/2023</td><td>Murat Özyurt</td><td>Permutation Groups</td></tr>
+      <!-- Diğer satırlar buraya gelir -->
     </tbody>
   </table>
 </details>
