@@ -60,6 +60,7 @@ BANT Team
         <tr><td>08.05.2025</td><td>Mine Ateş</td><td>Dirichlet series with nonnegative coefficients. Dirichlet series expressed as exponentials of Dirichlet series. Mean value formulas for Dirichlet series. An integral formula for the coefficients of a Dirichlet series. An integral formula for the partial sums of a Dirichlet series. Exercises for Chapter 11.</td></tr>
         <tr><td>15.05.2025</td><td>Sashadhar Dutta</td><td>Properties of the gamma function. Integral representation for the Hurwitz zeta function. A contour integral representation for the Hurwitz zeta function. The analytic continuation of the Hurwitz zeta function. Analytic continuation of ζ(s) and L(s, χ). Hurwitz’s formula for ζ(s, a). The functional equation for the Riemann zeta function.</td></tr>
         <tr><td>22.05.2025</td><td>Zekiye Pınar Cihan</td><td>A functional equation for the Hurwitz zeta function. The functional equation for L-functions. Evaluation of ζ(−n, a). Properties of Bernoulli numbers and Bernoulli polynomials. Formulas for L(0, χ). Approximation of ζ(s, a) by finite sums. Inequalities for |ζ(s, a)|. Inequalities for |ζ(s)| and |L(s, χ)|. Exercises for Chapter 12.</td></tr>
+ <tr><td>29.05.2025</td><td>Ömer Avcı</td><td>Chapter 13 whole</td></tr>
     </tbody>
   </table>
 </details>
