@@ -254,7 +254,7 @@ Carl Friedrich Gauss's statement:
 *"Mathematics is the queen of sciences, the queen of Mathematics is Number Theory".*  
 
 To participate in the seminar, please kindly fill out the form:  
-[Seminar Form](https://forms.gle/X9uevhbwGRSDmTWC9)
+[Seminar Form](https://forms.gle/j7UytGNCSHm9chJQ9)
 
 | Date         | Time                                      | Speaker              | Affiliation                   | Title                                              | Abstract  |
 |-------------|-----------------------------------------|----------------------|------------------------------|--------------------------------------------------|-----------|
