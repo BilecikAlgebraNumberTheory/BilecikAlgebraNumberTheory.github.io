@@ -266,7 +266,6 @@ To participate in the seminar, please kindly fill out the form:
 | 25/03/2025  | 16:00 Istanbul / 13:00 London / 14:00 Berlin / 22:00 Tokyo | Özlem İmamoğlu | ETH Zurich | A Lyapunov exponent attached to modular functions  | In joint work with Paloma Bengoechea and Sebastian Herrero we recently defined  a Lyapunov exponent attached to modular functions  and proved its properties. Our work was motivated by the work of Spalding and Veselov as well as conjectures of Kaneko on the values of modular functions at real quadratic irrationalities. In this talk I will first explain the results of Spalding and Veselov and the conjectures of Kaneko. I will then talk about the new results. |
 | 27/05/2025  | Istanbul 14:30, London 12:30, Berlin 13:30, Tokyo 20:30, Sydney 21:30, New York 07:30  | John Voight | University of Sydney | Hilbert modular forms obtained from orthogonal modular forms on quaternary lattices | We make explicit the relationship between Hilbert modular forms and orthogonal modular forms arising from positive definite quaternary lattices over the ring of integers of a totally real number field.  Our work uses the Clifford algebra, and it generalizes that of Ponomarev, Bocherer--Schulze-Pillot, and others by allowing for general discriminant, weight, and class group of the base ring.  This is joint work with Eran Assaf, Dan Fretwell, Colin Ingalls, Adam Logan, and Spencer Secord. |
 | 10/06/2025  |16:00 Istanbul / 15:00 Berlin / 14:00 Londra / 22:00 Tokyo / 09:00 New York / 23:00 Sydney | Ian Kiming | University of Copenhagen |  Eisenstein series and overconvergence. | I will talk about a series of works from recent years on the rate of overconvergence of certain modular functions that arise from classical Eisenstein series. The question arises because these rates have implications for the finer structure of the Coleman-Mazur eigencurve. Specifically, proving explicit bounds for the rates played a pivotal role in the proofs of "halo" type conjectures for p=2 and p=3 by Buzzard-Kilford and Roe, respectively. Those theorems lead Coleman to formulate a general conjecture for all primes p, and a recent (2025) theorem by myself together with B. Advocaat and G. Wiese proved a version of this conjecture. This new work builds on and uses previous work by myself together with N. Rustom. My aim in this talk will primarily be to explain the content of these results. I will start the talk at a very basic level, talking about overconvergent modular forms and "Katz expansions" in very concrete terms that are accessible to anyone who knows about modular forms. At the end I might be able to sketch some of the ideas that go into the proofs. |
-
 <style>
 summary {
   font-size: 20px;
@@ -305,11 +304,11 @@ details p {
 
 <details>
   <summary>2024–2025 Academic Year General Seminars</summary>
-  <p>This academic year, we present a wide array of talks covering number theory, modular forms, and algebraic structures by researchers from around the world.</p>
   <table>
     <thead>
       <tr>
         <th>Date</th>
+        <th>Time</th>
         <th>Speaker</th>
         <th>Title</th>
         <th>Abstract</th>
@@ -318,48 +317,56 @@ details p {
     <tbody>
       <tr>
         <td>15/10/2024</td>
+        <td>10:00 İstanbul / 11:00 Berlin / 18:00 Sydney / 12:00 Londra</td>
         <td>Igor Shparlinski</td>
         <td>Moments and non-vanishing of L-functions over thin subgroups</td>
         <td>We obtain an asymptotic formula for all moments of Dirichlet L-functions L(1,χ) modulo p when averaged over a subgroup of characters χ. Assuming the infinitude of Mersenne primes, the result improves and generalizes prior second moment results. The method uses estimates on small solutions to linear congruences and product sets of Farey fractions. Joint with Marc Munsch.</td>
       </tr>
       <tr>
         <td>12/11/2024</td>
+        <td>19:00 Istanbul / 17:00 Berlin / 16:00 London</td>
         <td>Florian Luca</td>
         <td>On a question of Douglass and Ono</td>
         <td>The partition function p(n) and the plane partition function PL(n) obey Benford’s law. This talk presents explicit values of N(b,f) such that the partition function begins with a given digit string f in base b, addressing a question posed by Douglass and Ono.</td>
       </tr>
       <tr>
         <td>17/12/2024</td>
+        <td>16:00 Istanbul / 22:00 Tokyo / 13:00 London / 14:00 Berlin</td>
         <td>Ade Irma Suriajaya</td>
         <td>Pair correlation of zeros of the Riemann zeta-function</td>
         <td>This talk presents unconditional proofs of Montgomery’s pair correlation theorem. It shows that a large proportion of zeta-function zeros are simple and connects with recent ideas from Maynard and Pratt. Joint work with Baluyot, Goldston, and Turnage-Butterbaugh.</td>
       </tr>
       <tr>
         <td>14/01/2025</td>
+        <td>16:00 Istanbul / 13:00 London / 14:00 Berlin / 22:00 Tokyo</td>
         <td>Cem Yalçın Yıldırım</td>
         <td>Some analogues of pair correlation of zeta zeros</td>
         <td>Montgomery’s calculation is re-examined to find analogues involving the correlation of zeta zeros and their relative maxima on the critical line.</td>
       </tr>
       <tr>
         <td>25/02/2025</td>
+        <td>16:00 Istanbul / 13:00 London / 14:00 Berlin / 22:00 Tokyo</td>
         <td>A. Muhammed Uludağ</td>
         <td>Dyer's outer automorphism of PGL(2,Z) and the codenominator</td>
         <td>Introduces the codenominator function F, which generalizes the Fibonacci sequence to the rationals. Discusses Dyer’s automorphism of PGL(2,Z) and the associated modular function Jimm J, connecting real quadratic irrationals and moduli of pseudolattices.</td>
       </tr>
       <tr>
         <td>25/03/2025</td>
+        <td>16:00 Istanbul / 13:00 London / 14:00 Berlin / 22:00 Tokyo</td>
         <td>Özlem İmamoğlu</td>
         <td>A Lyapunov exponent attached to modular functions</td>
         <td>This talk presents a new Lyapunov exponent defined for modular functions, inspired by work from Spalding, Veselov, and Kaneko. Joint work with Paloma Bengoechea and Sebastian Herrero.</td>
       </tr>
       <tr>
         <td>27/05/2025</td>
+        <td>14:30 Istanbul / 12:30 London / 13:30 Berlin / 20:30 Tokyo / 21:30 Sydney / 07:30 New York</td>
         <td>John Voight</td>
         <td>Hilbert modular forms obtained from orthogonal modular forms on quaternary lattices</td>
         <td>Explores explicit connections between Hilbert modular forms and orthogonal modular forms from quaternary lattices over totally real number fields. Uses Clifford algebras and generalizes past results. Joint work with Assaf, Fretwell, Ingalls, Logan, and Secord.</td>
       </tr>
       <tr>
         <td>10/06/2025</td>
+        <td>16:00 Istanbul / 15:00 Berlin / 14:00 Londra / 22:00 Tokyo / 09:00 New York / 23:00 Sydney</td>
         <td>Ian Kiming</td>
         <td>Eisenstein series and overconvergence</td>
         <td>Discusses overconvergence rates of modular forms arising from Eisenstein series and their impact on the Coleman-Mazur eigencurve. Presents recent work proving Coleman’s conjecture for small primes. Joint with B. Advocaat and G. Wiese.</td>
@@ -367,7 +374,6 @@ details p {
     </tbody>
   </table>
 </details>
-
 
 <details>
   <summary>2023–2024 Academic Year General Seminars</summary>
