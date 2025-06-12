@@ -266,41 +266,6 @@ To participate in the seminar, please kindly fill out the form:
 | 25/03/2025  | 16:00 Istanbul / 13:00 London / 14:00 Berlin / 22:00 Tokyo | Özlem İmamoğlu | ETH Zurich | A Lyapunov exponent attached to modular functions  | In joint work with Paloma Bengoechea and Sebastian Herrero we recently defined  a Lyapunov exponent attached to modular functions  and proved its properties. Our work was motivated by the work of Spalding and Veselov as well as conjectures of Kaneko on the values of modular functions at real quadratic irrationalities. In this talk I will first explain the results of Spalding and Veselov and the conjectures of Kaneko. I will then talk about the new results. |
 | 27/05/2025  | Istanbul 14:30, London 12:30, Berlin 13:30, Tokyo 20:30, Sydney 21:30, New York 07:30  | John Voight | University of Sydney | Hilbert modular forms obtained from orthogonal modular forms on quaternary lattices | We make explicit the relationship between Hilbert modular forms and orthogonal modular forms arising from positive definite quaternary lattices over the ring of integers of a totally real number field.  Our work uses the Clifford algebra, and it generalizes that of Ponomarev, Bocherer--Schulze-Pillot, and others by allowing for general discriminant, weight, and class group of the base ring.  This is joint work with Eran Assaf, Dan Fretwell, Colin Ingalls, Adam Logan, and Spencer Secord. |
 | 10/06/2025  |16:00 Istanbul / 15:00 Berlin / 14:00 Londra / 22:00 Tokyo / 09:00 New York / 23:00 Sydney | Ian Kiming | University of Copenhagen |  Eisenstein series and overconvergence. | I will talk about a series of works from recent years on the rate of overconvergence of certain modular functions that arise from classical Eisenstein series. The question arises because these rates have implications for the finer structure of the Coleman-Mazur eigencurve. Specifically, proving explicit bounds for the rates played a pivotal role in the proofs of "halo" type conjectures for p=2 and p=3 by Buzzard-Kilford and Roe, respectively. Those theorems lead Coleman to formulate a general conjecture for all primes p, and a recent (2025) theorem by myself together with B. Advocaat and G. Wiese proved a version of this conjecture. This new work builds on and uses previous work by myself together with N. Rustom. My aim in this talk will primarily be to explain the content of these results. I will start the talk at a very basic level, talking about overconvergent modular forms and "Katz expansions" in very concrete terms that are accessible to anyone who knows about modular forms. At the end I might be able to sketch some of the ideas that go into the proofs. |
-<style>
-summary {
-  font-size: 20px;
-  font-weight: bold;
-  background-color: #007acc;
-  color: white;
-  padding: 12px;
-  border-radius: 8px;
-  cursor: pointer;
-  margin-bottom: 10px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-}
-details[open] summary {
-  border-bottom-left-radius: 0;
-  border-bottom-right-radius: 0;
-}
-details table {
-  border-collapse: collapse;
-  width: 100%;
-  background: white;
-  font-size: 14px;
-}
-details th, details td {
-  border: 1px solid #ddd;
-  padding: 8px;
-  text-align: left;
-}
-details th {
-  background-color: #f2f2f2;
-}
-details p {
-  font-size: 15px;
-  margin-bottom: 10px;
-}
-</style>
 
 <details>
   <summary>2024–2025 Academic Year General Seminars</summary>
