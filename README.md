@@ -267,134 +267,16 @@ To participate in the seminar, please kindly fill out the form:
 | 27/05/2025  | Istanbul 14:30, London 12:30, Berlin 13:30, Tokyo 20:30, Sydney 21:30, New York 07:30  | John Voight | University of Sydney | Hilbert modular forms obtained from orthogonal modular forms on quaternary lattices | We make explicit the relationship between Hilbert modular forms and orthogonal modular forms arising from positive definite quaternary lattices over the ring of integers of a totally real number field.  Our work uses the Clifford algebra, and it generalizes that of Ponomarev, Bocherer--Schulze-Pillot, and others by allowing for general discriminant, weight, and class group of the base ring.  This is joint work with Eran Assaf, Dan Fretwell, Colin Ingalls, Adam Logan, and Spencer Secord. |
 | 10/06/2025  |16:00 Istanbul / 15:00 Berlin / 14:00 Londra / 22:00 Tokyo / 09:00 New York / 23:00 Sydney | Ian Kiming | University of Copenhagen |  Eisenstein series and overconvergence. | I will talk about a series of works from recent years on the rate of overconvergence of certain modular functions that arise from classical Eisenstein series. The question arises because these rates have implications for the finer structure of the Coleman-Mazur eigencurve. Specifically, proving explicit bounds for the rates played a pivotal role in the proofs of "halo" type conjectures for p=2 and p=3 by Buzzard-Kilford and Roe, respectively. Those theorems lead Coleman to formulate a general conjecture for all primes p, and a recent (2025) theorem by myself together with B. Advocaat and G. Wiese proved a version of this conjecture. This new work builds on and uses previous work by myself together with N. Rustom. My aim in this talk will primarily be to explain the content of these results. I will start the talk at a very basic level, talking about overconvergent modular forms and "Katz expansions" in very concrete terms that are accessible to anyone who knows about modular forms. At the end I might be able to sketch some of the ideas that go into the proofs. |
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>2024–2025 Academic Year General Seminars</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f4;
-      margin: 0;
-      padding: 30px;
-    }
-    h1 {
-      text-align: center;
-      color: #333;
-    }
-    .accordion {
-      background-color: #fff;
-      color: #333;
-      cursor: pointer;
-      padding: 18px;
-      width: 100%;
-      text-align: left;
-      border: none;
-      outline: none;
-      font-size: 16px;
-      transition: background-color 0.3s ease;
-      margin: 10px 0;
-      border-radius: 5px;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    }
-    .accordion:hover {
-      background-color: #e2e2e2;
-    }
-    .panel {
-      padding: 0 18px;
-      background-color: white;
-      max-height: 0;
-      overflow: hidden;
-      transition: max-height 0.3s ease-out;
-      border-left: 4px solid #007acc;
-      border-radius: 0 0 5px 5px;
-    }
-    .panel p {
-      padding: 10px 0;
-      font-size: 14px;
-      color: #555;
-    }
-    .info {
-      color: #777;
-      font-size: 13px;
-      font-style: italic;
-    }
-  </style>
-</head>
-<body>
-
-<h1>2024–2025 Academic Year General Seminars</h1>
-
-<!-- Start of Seminar Entries -->
-<button class="accordion">15/10/2024 — Igor Shparlinski (UNSW): Moments and non-vanishing of L-functions</button>
-<div class="panel">
-  <p class="info">Time: 10:00 İstanbul / 11:00 Berlin / 18:00 Sydney / 12:00 Londra</p>
-  <p>We obtain an asymptotic formula for all moments of Dirichlet L-functions L(1,χ) modulo p when averaged over a subgroup of characters χ of size (p-1)/d with φ(d)=o(log p). Assuming the infinitude of Mersenne primes, the result is optimal and generalizes prior second moment results by Louboutin and Munsch. We also establish a second moment result for L(1/2,χ), improving non-vanishing estimates by Fouvry, Kowalski, and Michel. Techniques include estimates on small solutions to linear congruences and results on product sets of Farey fractions. Joint with Marc Munsch.</p>
-</div>
-
-<button class="accordion">12/11/2024 — Florian Luca (Stellenbosch): On a question of Douglass and Ono</button>
-<div class="panel">
-  <p class="info">Time: 19:00 Istanbul / 17:00 Berlin / 16:00 London</p>
-  <p>The partition function p(n) satisfies Benford’s law in any base b ≥ 2. Douglass and Ono extended this to plane partitions PL(n). They posed the question of determining, for any base b and digit string f, the smallest N(b,f) such that PL(n) starts with f. This talk presents explicit values for N(b,f) for both p(n) and PL(n).</p>
-</div>
-
-<button class="accordion">17/12/2024 — Ade Irma Suriajaya (Kyushu): Pair correlation of zeta zeros</button>
-<div class="panel">
-  <p class="info">Time: 16:00 Istanbul / 22:00 Tokyo / 13:00 London / 14:00 Berlin</p>
-  <p>Montgomery’s 1973 theorem on the pair correlation of Riemann zeta zeros implied at least 2/3 are simple (assuming RH). This talk presents unconditional proofs of this result. Under weaker hypotheses, at least 61.7% of zeros are simple, and this can be improved. The work connects to zero distributions and employs recent results by Maynard and Pratt. Joint with Baluyot, Goldston, and Turnage-Butterbaugh.</p>
-</div>
-
-<button class="accordion">14/01/2025 — Cem Yalçın Yıldırım (Boğaziçi): Analogues of pair correlation of zeta zeros</button>
-<div class="panel">
-  <p class="info">Time: 16:00 Istanbul / 13:00 London / 14:00 Berlin / 22:00 Tokyo</p>
-  <p>This talk presents an alternative computation method for Montgomery’s pair correlation formula, leading to analogous results concerning the correlation of zeta zeros and their relative maxima on the critical line.</p>
-</div>
-
-<button class="accordion">25/02/2025 — A. Muhammed Uludağ (Galatasaray): Dyer’s automorphism of PGL(2,Z)</button>
-<div class="panel">
-  <p class="info">Time: 16:00 Istanbul / 13:00 London / 14:00 Berlin / 22:00 Tokyo</p>
-  <p>The codenominator function F generalizes the Fibonacci sequence to Q⁺. Dyer’s outer automorphism of PGL(2,Z) is expressed in terms of F and visualized via automorphisms of trivalent trees. The modular function Jimm J is introduced and related to pseudolattice moduli and real quadratic irrationals.</p>
-</div>
-
-<button class="accordion">25/03/2025 — Özlem İmamoğlu (ETH Zurich): Lyapunov exponent and modular functions</button>
-<div class="panel">
-  <p class="info">Time: 16:00 Istanbul / 13:00 London / 14:00 Berlin / 22:00 Tokyo</p>
-  <p>Joint work with Bengoechea and Herrero defines a Lyapunov exponent attached to modular functions. Inspired by work of Spalding, Veselov, and Kaneko’s conjectures on modular function values at real quadratic irrationals. The talk explains both prior results and the new findings.</p>
-</div>
-
-<button class="accordion">27/05/2025 — John Voight (Sydney): Hilbert modular forms and lattices</button>
-<div class="panel">
-  <p class="info">Time: 14:30 Istanbul / 12:30 London / 13:30 Berlin / 20:30 Tokyo / 21:30 Sydney / 07:30 New York</p>
-  <p>Explores the connection between Hilbert modular forms and orthogonal modular forms derived from positive definite quaternary lattices over totally real fields. Uses Clifford algebras and generalizes work by Bocherer, Schulze-Pillot, and others. Joint with Assaf, Fretwell, Ingalls, Logan, and Secord.</p>
-</div>
-
-<button class="accordion">10/06/2025 — Ian Kiming (Copenhagen): Eisenstein series and overconvergence</button>
-<div class="panel">
-  <p class="info">Time: 16:00 Istanbul / 15:00 Berlin / 14:00 Londra / 22:00 Tokyo / 09:00 New York / 23:00 Sydney</p>
-  <p>This talk introduces overconvergent modular forms arising from Eisenstein series and explains their impact on the Coleman-Mazur eigencurve. The speaker presents proofs of Buzzard-Kilford and Roe’s halo conjectures for p=2 and p=3 and a 2025 result proving a version of Coleman’s conjecture. Joint work with Advocaat and Wiese.</p>
-</div>
-<!-- End of Seminar Entries -->
-
-<script>
-  const acc = document.getElementsByClassName("accordion");
-  for (let i = 0; i < acc.length; i++) {
-    acc[i].addEventListener("click", function () {
-      this.classList.toggle("active");
-      const panel = this.nextElementSibling;
-      if (panel.style.maxHeight) {
-        panel.style.maxHeight = null;
-      } else {
-        panel.style.maxHeight = panel.scrollHeight + "px";
-      }
-    });
-  }
-</script>
-
-</body>
-</html>
-
+| Date         | Time                                      | Speaker              | Affiliation                   | Title                                              | Abstract  |
+|-------------|-----------------------------------------|----------------------|------------------------------|--------------------------------------------------|-----------|
+| 15/10/2024  | 10:00 İstanbul / 11:00 Berlin / 18:00 Sydney / 12:00 Londra | Igor Shparlinski  | University of New South Wales | Moments and non-vanishing of L-functions over thin subgroups | Moments and non-vanishing of L-functions over thin subgroups. We obtain an asymptotic formula for all moments of Dirichlet L-functions L(1,χ) modulo p when averaged over a subgroup of characters χ of size (p-1)/d with φ(d)=o(log p). Assuming the infinitude of Mersenne primes, the range of our result is optimal and improves and generalises the previous result of S. Louboutin and M. Munsch (2022) for second moments. We also give an asymptotic formula for the second moment of L(1/2,χ) over subgroups of characters of similar size. This leads to non-vanishing results which in some cases improve those of E. Fouvry, E. Kowalski and P. Michel (2023). Additionally, we prove that, in both cases, we can take much smaller subgroups for almost all primes p. Our method relies on pointwise and average estimates on small solutions of linear congruences which in turn leads us to use and modify some results of J. Bourgain, S. V. Konyagin and I. E. Shparlinski (2008) on product sets of Farey fractions. Joint work with Marc Munsch. |
+| 12/11/2024  | 19:00 Istanbul / 17:00 Berlin / 16:00 London | Florian Luca  | Stellenbosch University | On a question of Douglass and Ono | It is known that the partition function <span>p(n)</span> obeys Benford’s law in any integer base <span>b ≥ 2</span>. A similar result was obtained by Douglass and Ono for the plane partition function <span>PL(n)</span> in a recent paper. In their paper, Douglass and Ono asked for an explicit version of this result. In particular, given an integer base <span>b ≥ 2</span> and a string <span>f</span> of digits in base <span>b</span>, they asked for an explicit value <span>N(b, f)</span> such that there exists <span>n ≤ N(b, f)</span> with the property that <span>PL(n)</span> starts with the string <span>f</span> when written in base <span>b</span>. In my talk, I will present an explicit value for <span>N(b, f)</span> both for the partition function <span>p(n)</span> as well as for the plane partition function <span>PL(n)</span>. |
+| 17/12/2024  | 16:00 Istanbul / 22:00 Tokyo / 13:00 London / 14:00 Berlin | Ade Irma Suriajaya | Kyushu University  | Pair correlation of zeros of the Riemann zeta-function, zero density and simple zeros | Assuming the Riemann Hypothesis (RH), Montgomery (1973) proved a theorem concerning the pair correlation of nontrivial zeros of the Riemann zeta-function. One consequence of this theorem was that, under RH, at least 2/3 of the zeros are simple. We show that this theorem of Montgomery holds unconditionally. In an earlier paper, as an application, under a much weaker hypothesis than RH that all the zeros lie within a narrow vertical box centered on the critical line, we showed that at least 61.7% of zeros of the Riemann zeta-function are simple. We can further weaken the hypothesis using a density hypothesis. Recently we were able to improve a little bit on this proportion, and furthermore found a connection to finding proportion of zeros on the critical line. Inspired by a recent preprint of J. Maynard and K. Pratt, we can additionally weaken our assumption by copying the box finitely many times. This is joint work with Siegfred Alan C. Baluyot, Daniel Alan Goldston, and Caroline L. Turnage-Butterbaugh. |
+| 14/01/2025  | 16:00 Istanbul / 13:00 London / 14:00 Berlin / 22:00 Tokyo | Cem Yalçın Yıldırım | Boğaziçi University | Some analogues of pair correlation of zeta zeros | An alternative way to carry out Montgomery's original calculation of the pair correlation of zeta zeros allows us to obtain some other analogous results. In particular, we can approach the problems of correlating zeta zeros and relative maxima on the critical line, and the pair correlation of these maxima. |
+| 25/02/2025  | 16:00 Istanbul / 13:00 London / 14:00 Berlin / 22:00 Tokyo | A. Muhammed Uludağ | Galatasaray University | Dyer's outer automorphism of PGL(2,Z) and the codenominator | The codenominator is a function <span>F</span> that extends the Fibonacci sequence to the index set of positive rational numbers. Many known Fibonacci identities carry over to the codenominator. One can express Dyer's outer automorphism of the extended modular group PGL(2, Z) in terms of <span>F</span>. This automorphism can be viewed as an automorphism group of the trivalent tree. The real-covariant modular function <span>Jimm J</span> on the real line is defined via the codenominator. <span>J</span> relates the Stern-Brocot tree to the Bird tree. <span>Jimm</span> induces an involution of the moduli space of rank-2 pseudolattices and is related to the arithmetic of real quadratic irrationals. |
+| 25/03/2025  | 16:00 Istanbul / 13:00 London / 14:00 Berlin / 22:00 Tokyo | Özlem İmamoğlu | ETH Zurich | A Lyapunov exponent attached to modular functions  | In joint work with Paloma Bengoechea and Sebastian Herrero we recently defined  a Lyapunov exponent attached to modular functions  and proved its properties. Our work was motivated by the work of Spalding and Veselov as well as conjectures of Kaneko on the values of modular functions at real quadratic irrationalities. In this talk I will first explain the results of Spalding and Veselov and the conjectures of Kaneko. I will then talk about the new results. |
+| 27/05/2025  | Istanbul 14:30, London 12:30, Berlin 13:30, Tokyo 20:30, Sydney 21:30, New York 07:30  | John Voight | University of Sydney | Hilbert modular forms obtained from orthogonal modular forms on quaternary lattices | We make explicit the relationship between Hilbert modular forms and orthogonal modular forms arising from positive definite quaternary lattices over the ring of integers of a totally real number field.  Our work uses the Clifford algebra, and it generalizes that of Ponomarev, Bocherer--Schulze-Pillot, and others by allowing for general discriminant, weight, and class group of the base ring.  This is joint work with Eran Assaf, Dan Fretwell, Colin Ingalls, Adam Logan, and Spencer Secord. |
+| 10/06/2025  |16:00 Istanbul / 15:00 Berlin / 14:00 Londra / 22:00 Tokyo / 09:00 New York / 23:00 Sydney | Ian Kiming | University of Copenhagen |  Eisenstein series and overconvergence. | I will talk about a series of works from recent years on the rate of overconvergence of certain modular functions that arise from classical Eisenstein series. The question arises because these rates have implications for the finer structure of the Coleman-Mazur eigencurve. Specifically, proving explicit bounds for the rates played a pivotal role in the proofs of "halo" type conjectures for p=2 and p=3 by Buzzard-Kilford and Roe, respectively. Those theorems lead Coleman to formulate a general conjecture for all primes p, and a recent (2025) theorem by myself together with B. Advocaat and G. Wiese proved a version of this conjecture. This new work builds on and uses previous work by myself together with N. Rustom. My aim in this talk will primarily be to explain the content of these results. I will start the talk at a very basic level, talking about overconvergent modular forms and "Katz expansions" in very concrete terms that are accessible to anyone who knows about modular forms. At the end I might be able to sketch some of the ideas that go into the proofs. |
 
 
 <details>
