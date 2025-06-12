@@ -267,6 +267,134 @@ To participate in the seminar, please kindly fill out the form:
 | 27/05/2025  | Istanbul 14:30, London 12:30, Berlin 13:30, Tokyo 20:30, Sydney 21:30, New York 07:30  | John Voight | University of Sydney | Hilbert modular forms obtained from orthogonal modular forms on quaternary lattices | We make explicit the relationship between Hilbert modular forms and orthogonal modular forms arising from positive definite quaternary lattices over the ring of integers of a totally real number field.  Our work uses the Clifford algebra, and it generalizes that of Ponomarev, Bocherer--Schulze-Pillot, and others by allowing for general discriminant, weight, and class group of the base ring.  This is joint work with Eran Assaf, Dan Fretwell, Colin Ingalls, Adam Logan, and Spencer Secord. |
 | 10/06/2025  |16:00 Istanbul / 15:00 Berlin / 14:00 Londra / 22:00 Tokyo / 09:00 New York / 23:00 Sydney | Ian Kiming | University of Copenhagen |  Eisenstein series and overconvergence. | I will talk about a series of works from recent years on the rate of overconvergence of certain modular functions that arise from classical Eisenstein series. The question arises because these rates have implications for the finer structure of the Coleman-Mazur eigencurve. Specifically, proving explicit bounds for the rates played a pivotal role in the proofs of "halo" type conjectures for p=2 and p=3 by Buzzard-Kilford and Roe, respectively. Those theorems lead Coleman to formulate a general conjecture for all primes p, and a recent (2025) theorem by myself together with B. Advocaat and G. Wiese proved a version of this conjecture. This new work builds on and uses previous work by myself together with N. Rustom. My aim in this talk will primarily be to explain the content of these results. I will start the talk at a very basic level, talking about overconvergent modular forms and "Katz expansions" in very concrete terms that are accessible to anyone who knows about modular forms. At the end I might be able to sketch some of the ideas that go into the proofs. |
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>2024–2025 Academic Year General Seminars</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 30px;
+    }
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+    .accordion {
+      background-color: #fff;
+      color: #333;
+      cursor: pointer;
+      padding: 18px;
+      width: 100%;
+      text-align: left;
+      border: none;
+      outline: none;
+      font-size: 16px;
+      transition: background-color 0.3s ease;
+      margin: 10px 0;
+      border-radius: 5px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    .accordion:hover {
+      background-color: #e2e2e2;
+    }
+    .panel {
+      padding: 0 18px;
+      background-color: white;
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.3s ease-out;
+      border-left: 4px solid #007acc;
+      border-radius: 0 0 5px 5px;
+    }
+    .panel p {
+      padding: 10px 0;
+      font-size: 14px;
+      color: #555;
+    }
+    .info {
+      color: #777;
+      font-size: 13px;
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+
+<h1>2024–2025 Academic Year General Seminars</h1>
+
+<!-- Start of Seminar Entries -->
+<button class="accordion">15/10/2024 — Igor Shparlinski (UNSW): Moments and non-vanishing of L-functions</button>
+<div class="panel">
+  <p class="info">Time: 10:00 İstanbul / 11:00 Berlin / 18:00 Sydney / 12:00 Londra</p>
+  <p>We obtain an asymptotic formula for all moments of Dirichlet L-functions L(1,χ) modulo p when averaged over a subgroup of characters χ of size (p-1)/d with φ(d)=o(log p). Assuming the infinitude of Mersenne primes, the result is optimal and generalizes prior second moment results by Louboutin and Munsch. We also establish a second moment result for L(1/2,χ), improving non-vanishing estimates by Fouvry, Kowalski, and Michel. Techniques include estimates on small solutions to linear congruences and results on product sets of Farey fractions. Joint with Marc Munsch.</p>
+</div>
+
+<button class="accordion">12/11/2024 — Florian Luca (Stellenbosch): On a question of Douglass and Ono</button>
+<div class="panel">
+  <p class="info">Time: 19:00 Istanbul / 17:00 Berlin / 16:00 London</p>
+  <p>The partition function p(n) satisfies Benford’s law in any base b ≥ 2. Douglass and Ono extended this to plane partitions PL(n). They posed the question of determining, for any base b and digit string f, the smallest N(b,f) such that PL(n) starts with f. This talk presents explicit values for N(b,f) for both p(n) and PL(n).</p>
+</div>
+
+<button class="accordion">17/12/2024 — Ade Irma Suriajaya (Kyushu): Pair correlation of zeta zeros</button>
+<div class="panel">
+  <p class="info">Time: 16:00 Istanbul / 22:00 Tokyo / 13:00 London / 14:00 Berlin</p>
+  <p>Montgomery’s 1973 theorem on the pair correlation of Riemann zeta zeros implied at least 2/3 are simple (assuming RH). This talk presents unconditional proofs of this result. Under weaker hypotheses, at least 61.7% of zeros are simple, and this can be improved. The work connects to zero distributions and employs recent results by Maynard and Pratt. Joint with Baluyot, Goldston, and Turnage-Butterbaugh.</p>
+</div>
+
+<button class="accordion">14/01/2025 — Cem Yalçın Yıldırım (Boğaziçi): Analogues of pair correlation of zeta zeros</button>
+<div class="panel">
+  <p class="info">Time: 16:00 Istanbul / 13:00 London / 14:00 Berlin / 22:00 Tokyo</p>
+  <p>This talk presents an alternative computation method for Montgomery’s pair correlation formula, leading to analogous results concerning the correlation of zeta zeros and their relative maxima on the critical line.</p>
+</div>
+
+<button class="accordion">25/02/2025 — A. Muhammed Uludağ (Galatasaray): Dyer’s automorphism of PGL(2,Z)</button>
+<div class="panel">
+  <p class="info">Time: 16:00 Istanbul / 13:00 London / 14:00 Berlin / 22:00 Tokyo</p>
+  <p>The codenominator function F generalizes the Fibonacci sequence to Q⁺. Dyer’s outer automorphism of PGL(2,Z) is expressed in terms of F and visualized via automorphisms of trivalent trees. The modular function Jimm J is introduced and related to pseudolattice moduli and real quadratic irrationals.</p>
+</div>
+
+<button class="accordion">25/03/2025 — Özlem İmamoğlu (ETH Zurich): Lyapunov exponent and modular functions</button>
+<div class="panel">
+  <p class="info">Time: 16:00 Istanbul / 13:00 London / 14:00 Berlin / 22:00 Tokyo</p>
+  <p>Joint work with Bengoechea and Herrero defines a Lyapunov exponent attached to modular functions. Inspired by work of Spalding, Veselov, and Kaneko’s conjectures on modular function values at real quadratic irrationals. The talk explains both prior results and the new findings.</p>
+</div>
+
+<button class="accordion">27/05/2025 — John Voight (Sydney): Hilbert modular forms and lattices</button>
+<div class="panel">
+  <p class="info">Time: 14:30 Istanbul / 12:30 London / 13:30 Berlin / 20:30 Tokyo / 21:30 Sydney / 07:30 New York</p>
+  <p>Explores the connection between Hilbert modular forms and orthogonal modular forms derived from positive definite quaternary lattices over totally real fields. Uses Clifford algebras and generalizes work by Bocherer, Schulze-Pillot, and others. Joint with Assaf, Fretwell, Ingalls, Logan, and Secord.</p>
+</div>
+
+<button class="accordion">10/06/2025 — Ian Kiming (Copenhagen): Eisenstein series and overconvergence</button>
+<div class="panel">
+  <p class="info">Time: 16:00 Istanbul / 15:00 Berlin / 14:00 Londra / 22:00 Tokyo / 09:00 New York / 23:00 Sydney</p>
+  <p>This talk introduces overconvergent modular forms arising from Eisenstein series and explains their impact on the Coleman-Mazur eigencurve. The speaker presents proofs of Buzzard-Kilford and Roe’s halo conjectures for p=2 and p=3 and a 2025 result proving a version of Coleman’s conjecture. Joint work with Advocaat and Wiese.</p>
+</div>
+<!-- End of Seminar Entries -->
+
+<script>
+  const acc = document.getElementsByClassName("accordion");
+  for (let i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function () {
+      this.classList.toggle("active");
+      const panel = this.nextElementSibling;
+      if (panel.style.maxHeight) {
+        panel.style.maxHeight = null;
+      } else {
+        panel.style.maxHeight = panel.scrollHeight + "px";
+      }
+    });
+  }
+</script>
+
+</body>
+</html>
+
 
 
 <details>
