@@ -13,6 +13,8 @@ BANT Team
 
 ## *BANT Working Group Seminars*
 
+<p><em>Note: Previous seminars are listed below. Please click on the arrow ▶ to expand and view the full list.</em></p>
+
   <p>In these seminars, we examine Algebra and number theory topics, and our goals are to increase our mathematical maturity and say hello to new bridges in mathematics.</p><details>
   <summary>2024–2025 Academic Year BANT Working Group Seminars</summary>
   <p>This academic year, we will use the book Apostol, T. M. (1998). <i>Introduction to Analytic Number Theory</i>. Springer Science & Business Media in these seminars.</p>
