@@ -256,6 +256,15 @@ Carl Friedrich Gauss's statement:
 To participate in the seminar, please kindly fill out the form:  
 [Seminar Form](https://forms.gle/j7UytGNCSHm9chJQ9)
 
+| Date       | Time | Speaker          | Affiliation               | Title | Abstract |
+|------------|------|------------------|---------------------------|-------|----------|
+| 07/10/2025 | TBA  | Ariel Pacetti    | University of Aveiro      | TBA   | TBA      |
+| 04/11/2025 | TBA  | Ben Kane         | University of Hong Kong   | TBA   | TBA      |
+| 16/12/2025 | TBA  | Toshiki Matsusaka| Kyushu University         | TBA   | TBA      |
+| 13/01/2026 | TBA  | TBA              | TBA                       | TBA   | TBA      |
+| 03/02/2026 | TBA  | Luis Diulefait   | University of Barcelona   | TBA   | TBA      |
+
+
 
 <details>
   <summary>2024–2025 Academic Year General Seminars</summary>
