@@ -249,9 +249,8 @@ BANT Team
 
  
 ## *General Seminars*
-
-Carl Friedrich Gauss's statement:  
-*"Mathematics is the queen of sciences, the queen of Mathematics is Number Theory".*  
+<p><em>Note: Previous seminars are listed below. Please click on the arrow ▶ to expand and view the full list.</em></p>
+Carl Friedrich Gauss famously said, “Mathematics is the queen of sciences, and Number Theory is the queen of Mathematics.”
 
 To participate in the seminar, please kindly fill out the form:  
 [Seminar Form](https://forms.gle/j7UytGNCSHm9chJQ9)
