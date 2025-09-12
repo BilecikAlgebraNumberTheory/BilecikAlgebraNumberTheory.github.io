@@ -262,7 +262,7 @@ To participate in the seminar, please kindly fill out the form:
 | 07/10/2025 | TBA  | Ariel Pacetti    | University of Aveiro      | TBA   | TBA      |
 | 04/11/2025 | TBA  | Ben Kane         | University of Hong Kong   | TBA   | TBA      |
 | 16/12/2025 | TBA  | Toshiki Matsusaka| Kyushu University         | TBA   | TBA      |
-| 13/01/2026 | TBA  | TBA              | TBA                       | TBA   | TBA      |
+| 13/01/2026 | TBA  | Andrej Dujella   | University of Zagreb      | TBA   | TBA      |
 | 03/02/2026 | TBA  | Luis Diulefait   | University of Barcelona   | TBA   | TBA      |
 
 
