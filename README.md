@@ -259,7 +259,7 @@ To participate in the seminar, please kindly fill out the form:
 
 | Date       | Time | Speaker          | Affiliation               | Title | Abstract |
 |------------|------|------------------|---------------------------|-------|----------|
-| 07/10/2025 | TBA  | Ariel Pacetti    | University of Aveiro      | TBA   | TBA      |
+| 07/10/2025 | 15:00 Istanbul, 14:00 Berlin, 13:00 Lisbon, 21:00 Tokyo, 8:00 New York  | Ariel Pacetti    | University of Aveiro      | Hypergeometric motives and Galois representations. |  The goal of the present talk is to give an overview on how hypergeometric motives allow us to adapt the modular method to study solutions of the generalized Fermat equation $x^q + y^p + z^r=0$, for new families of exponents. The approach follows Darmon's original program on Rigid local systems.|
 | 04/11/2025 | TBA  | Ben Kane         | University of Hong Kong   | TBA   | TBA      |
 | 16/12/2025 | TBA  | Toshiki Matsusaka| Kyushu University         | TBA   | TBA      |
 | 13/01/2026 | TBA  | Andrej Dujella   | University of Zagreb      | TBA   | TBA      |
