@@ -255,7 +255,7 @@ BANT Team
 Carl Friedrich Gauss famously said, “Mathematics is the queen of sciences, and Number Theory is the queen of Mathematics.”
 
 To participate in the seminar, please kindly fill out the form:  
-[Seminar Form](https://forms.gle/nWr5BrnFRgyxDahb7)
+[Seminar Form](https://forms.gle/tb2KLm4YNKtiW82t7)
 
 | Date       | Time | Speaker          | Affiliation               | Title | Abstract |
 |------------|------|------------------|---------------------------|-------|----------|
