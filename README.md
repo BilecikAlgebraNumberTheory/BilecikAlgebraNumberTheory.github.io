@@ -266,7 +266,7 @@ To participate in the seminar, please kindly fill out the form:
 | 03/02/2026 | 16:00 Istanbul, 14:00 Barcelona, 13:00 London, 00:00 Sydney (+1), 22:00 Tokyo, 08:00 New York  | Luis Diulefait   | University of Barcelona   | Safe chains of congruences between Galois representations: a tool for modularity and functoriality.   | We will present the method of "safe chains" of congruences between p-adic Galois representations, together with some applications of it to proofs of modularity results and some cases of Langlands functoriality, such as base change. We will also discuss the "Rayuela Conjecture" and its relation with general modularity conjectures.|
 | 24/02/2026 | TBA  | TBA               | TBA                   | TBA   | TBA      |
 | 03/03/2026 | TBA  | TBA               | TBA                   | TBA   | TBA      |
-| 07/04/2026 | TBA  | TBA               | TBA                   | TBA   | TBA      |
+| 07/04/2026 | TBA  | Hossein Movasati  | Instituto Nacional de Matemática Pura e Aplicada                 | TBA   | TBA      |
 | 05/05/2026 | TBA  | Kevin Buzzard     | Imperial College      | TBA   | TBA      |
 | 02/06/2026 | TBA  | Masanobu Kaneko   | Kyushu University| TBA   | TBA      |
 
