@@ -268,7 +268,7 @@ To participate in the seminar, please kindly fill out the form:
 | 03/03/2026 | TBA  | TBA               | TBA                   | TBA   | TBA      |
 | 07/04/2026 | TBA  | TBA               | TBA                   | TBA   | TBA      |
 | 05/05/2026 | TBA  | Kevin Buzzard     | Imperial College      | TBA   | TBA      |
-| 02/06/2026 | TBA  | Masanobu Kaneko   | Kyushu Üniversitesi   | TBA   | TBA      |
+| 02/06/2026 | TBA  | Masanobu Kaneko   | Kyushu University| TBA   | TBA      |
 
 
 
