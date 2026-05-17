@@ -255,7 +255,7 @@ BANT Team
 Carl Friedrich Gauss famously said, “Mathematics is the queen of sciences, and Number Theory is the queen of Mathematics.”
 
 To participate in the seminar, please kindly fill out the form:  
-[Seminar Form](https://forms.gle/Cm2xU3216jm1HaKC8)
+[Seminar Form](https://forms.gle/PYBCxqtiu893nevd7)
 
 | Date       | Time | Speaker          | Affiliation               | Title | Abstract |
 |------------|------|------------------|---------------------------|-------|----------|
@@ -267,7 +267,7 @@ To participate in the seminar, please kindly fill out the form:
 | 03/03/2026 | 21:00 Istanbul, 19:00 Barcelona, 18:00 London, 05:00 Sydney (+1), 03:00 Seoul (+1), 10:00 Vancouver  | Michael A. Bennett | University of British Columbia| Arithmetic progressions in sumsets of geometric progressions|  If a and b are integers with b > a > 1, we completely characterize “long” arithmetic progressions in the sumsets of the geometric progressions 1, a, a2, a3, . . . and 1, b, b2, b3, .... Our proofs utilize recent applications of bounds for linear forms in logarithms to S-unit equations, and consequences of the modularity of Frey-Hellegouarch curves, together with elementary arguments.|
 | 07/04/2026 |  17:00 Istanbul, 16:00 Berlin, 15:00 Londra, 23:00, Tokyo, 00:00 Sydney, 11:00 Rio de Janeiro| Hossein Movasati  | IMPA, Brasil |Hasse-Witt invariants of Calabi-Yau varieties | We define the Hasse-Witt invariant of Calabi-Yau varieties in two different ways. The first method is through the Cartier operator and the second method is through the theory of Calabi-Yau modular forms. We conjecture that these two definitions are equivalent and provide many examples of Calabi-Yau varieties in support of this conjecture. The talk is based on  https://arxiv.org/abs/2603.03055|
 | 05/05/2026 | 18:00 Istanbul, 17:00 Berlin, 16:00 London, 11:00 New York, 00:00 Seoul, 01:00 Sydney (+1)  | Kevin Buzzard     | Imperial College      | Formalizing Fermat| I'll talk about a project I'm currently working on, which is teaching a proof of Fermat's Last Theorem to a computer theorem prover called Lean. It's a bit like teaching Fermat's Last Theorem to a very careful but quite unimaginative graduate student, although as AI gets better the student is slowly becoming more imaginative. I will not be assuming anything about AI or Lean, or about the deep mathematics which goes into the proof, and the talk should be accessible to a general mathematical audience.  |
-| 02/06/2026 | TBA  | Masanobu Kaneko   | Kyushu University| TBA   | TBA      |
+| 02/06/2026 |11:00 İstanbul / 10:00 Berlin / 09:00 Londra / 17:00 Tokyo / 04:00 New York / 18:00 Sydney| Masanobu Kaneko   | Kyushu University|An Introduction to Finite Multiple Zeta Values| Multiple zeta values are real numbers defined by certain convergent series and have been studied extensively in recent years. In this talk, we introduce a naive finite analogue of multiple zeta values and discuss some of its interesting properties, which closely resemble those of the original multiple zeta values. In particular, we present a striking conjecture relating finite multiple zeta values to classical multiple zeta values. This talk is based on joint work with Don Zagier. |
 
 
 
